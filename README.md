@@ -2,9 +2,9 @@
 
 ![](https://github-production-user-asset-6210df.s3.amazonaws.com/17870709/268487157-a1c73ca6-8427-42da-9bda-4b18e04f02d4.png)
 
-<h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px" style="max-width: 100%;"> Hi there, I'm 𝓒𝓪𝓷𝓲𝓼𝓜𝓲𝓷𝓸𝓻</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px" style="max-width: 100%;"> Hi there, I'm Aditya</h1>
 
-As a **Indie Hacker** chillin'in Chengdu, China<br/>Hyped about open source projects & Dedicated to being a craftsman who creates sh\*t beauty
+As a **Indian Developer** chillin'in Maharashtra, India<br/>Hyped about open source projects & Dedicated to being a craftsman who creates sh\*t beauty
 
 ![][social-design-engineer]
 ![][social-follow]
@@ -34,38 +34,6 @@ As a **Indie Hacker** chillin'in Chengdu, China<br/>Hyped about open source proj
 | ![][h-shell]    | ![][shell-iterm] ![][shell-terminal] ![][shell-fish] ![][shell-oh-my-posh]                                                                                                                                                                                         |
 | ![][h-other]    | ![][other-sketch-plugin] ![][other-chatgpt] ![][other-langchain] ![][other-notion]                                                                                                                                                                                 |
 
-### ⭐️ Projects
-
-| [**🤯 Lobe Chat**][lobe-chat-github]<br/>An open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.<br/><br/>![][lobe-chat-shield] | [![][lobe-chat-cover]][lobe-chat-github]   |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
-| [**🅰️ Lobe Theme**][lobe-theme-github]<br/>The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.<br/><br/>![][lobe-theme-shield]                                 | [![][lobe-theme-cover]][lobe-theme-github] |
-
-> \[!NOTE]
-> Find more interesting projects in [🤯 LobeHub](https://github.com/lobehub)
-
-### 👀 Social Media
-
-| ![](https://raw.githubusercontent.com/canisminor1990/canisminor1990/main/assets/left.svg) | ![](https://raw.githubusercontent.com/canisminor1990/canisminor1990/main/assets/right.svg) |
-| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-
-<!--START_SECTION:waka-->
-
-**I'm an Early 🐤**
-
-```text
-🌞 Morning                17216 commits       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.15 %
-🌆 Daytime                41447 commits       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   36.47 %
-🌃 Evening                38182 commits       ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   33.60 %
-🌙 Night                  16793 commits       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.78 %
-```
-
-Last Updated on 07/04/2025 00:32:59 UTC
-
-<!--END_SECTION:waka-->
-
-Hit me up anytime and come vibe with our lit project. Let's make some magic happen 😗😼❤️
-
-> _Generate by [🧙‍♂️ Readme Wizard](https://github.com/lobehub/lobe-readme-wizard "Generate lobe style product README by MAGIC")_
 
 <!-- SHIELD GROUP -->
 
