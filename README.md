@@ -6,19 +6,8 @@
 
 As a **Indian Developer** chillin'in Maharashtra, India<br/>Hyped about open source projects & Dedicated to being a craftsman who creates sh\*t beauty
 
-![][social-design-engineer]
-![][social-follow]
-[![][social-bilibili]](https://space.bilibili.com/410372)<br/>
-![][social-qq-shield]
-![][social-wechat-shield]
-![][social-discord-shield]
-[![][social-steam-shield]][social-steam-link]
-[![][social-x-shield]][social-x-link]<br/>
-[![sponser](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-f04f88?logo=kofi&logoColor=white&style=flat-square)](https://ko-fi.com/canisminor1990 "Sponsor me on Ko-Fi")<br/>
 
-[![][github-treding-shield]][github-trending-url]
 
-![][split]
 
 </div>
 
