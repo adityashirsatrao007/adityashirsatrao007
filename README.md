@@ -37,5 +37,4 @@
 <div align="center">
   <p><i>"Solve. Build. Empower."</i></p>
 </div>
-
-https://holopin.me/adityashirsatrao007
+![image](https://github.com/user-attachments/assets/3f4c711f-4bf3-46d2-bb15-692a2359bf29)
