@@ -1,10 +1,8 @@
-<!-- Header -->
-![Background](https://github-production-user-asset-6210df.s3.amazonaws.com/99045557/338309312-18b4c261-0a1f-46ed-ac3d-8a9ca36f8f97.gif)
+![Background](https://github-production-user-asset-6210df.s3.amazonaws.com/99045557/338309312-18b4c261-0a1f-46ed-ac3d-8a9ca36f8f97.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250626%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250626T153417Z&X-Amz-Expires=300&X-Amz-Signature=ec375dff538fcc3e7d7c10a959b18e6b3f13552a1cedce12769f71d9310e80a2&X-Amz-SignedHeaders=host)
 <h1 align="center">< こんにちは, I'm Aditya Shirsatrao ⚡︎ /></h1>
 
 ---
 
-<!-- Tech Stack -->
 <div align="center">
   <h2>🛠️ Tech Stack</h2>
   <p>
@@ -13,8 +11,6 @@
 </div>
 
 ---
-
-<!-- About Me -->
 <div align="center">
   <h2>🧑‍💻 About Me</h2>
   <div style="background: #0D1117; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 107, 107, 0.2); max-width: 800px; margin: 0 auto;">
@@ -30,9 +26,6 @@
   </div>
 </div>
 
----
-
-<!-- Connect Section -->
 <div align="center">
   <h2>💬 Let's Connect</h2>
   <p style="background: #0D1117; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 107, 107, 0.2); max-width: 800px; margin: 0 auto;">
@@ -41,16 +34,7 @@
   <img src="https://komarev.com/ghpvc/?username=adityashirsatrao007&label=Profile%20views&color=FF6B6B&style=flat" alt="Profile Views" />
 </div>
 
----
-
-<!-- Footer Quote -->
 <div align="center">
   <p><i>"Solve. Build. Empower."</i></p>
 </div>
-
-<!-- Holopin Badge Board -->
-<div align="center">
-  <a href="https://holopin.io/@adityashirsatrao007">
-    <img src="https://holopin.me/adityashirsatrao007.svg" alt="Holopin badges" width="100%" />
-  </a>
-</div>
+[![An image of @adityashirsatrao007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityashirsatrao007)](https://holopin.io/@adityashirsatrao007)
