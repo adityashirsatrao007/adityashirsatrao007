@@ -37,10 +37,4 @@
 <div align="center">
   <p><i>"Solve. Build. Empower."</i></p>
 </div>
-## 🏅 Holopin Badge Board
-
-<p align="center">
-  <a href="https://holopin.io/@adityashirsatrao007">
-    <img src="https://holopin.me/adityashirsatrao007.svg" alt="Holopin badges" width="100%" />
-  </a>
-</p>
+[![An image of @adityashirsatrao007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityashirsatrao007.svg)](https://holopin.io/@adityashirsatrao007)
