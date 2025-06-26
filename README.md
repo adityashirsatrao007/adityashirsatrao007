@@ -37,4 +37,5 @@
 <div align="center">
   <p><i>"Solve. Build. Empower."</i></p>
 </div>
-![image](https://github.com/user-attachments/assets/3f4c711f-4bf3-46d2-bb15-692a2359bf29)
+
+[![An image of @adityashirsatrao007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityashirsatrao007)](https://holopin.io/@adityashirsatrao007)
