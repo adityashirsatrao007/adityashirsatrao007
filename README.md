@@ -1,6 +1,8 @@
 ![Background](https://github.com/adityashirsatrao007/adityashirsatrao007/blob/main/Banner.gif?raw=true)
 
-<h1 align="center">こんにちは, I'm Aditya Shirsatrao ⚡︎</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Namaste+%F0%9F%99%8F,+I'm+Aditya+Shirsatrao;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Data+Science+Student+%F0%9F%8E%93;Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
 <div align="center">
   <a href="https://linkedin.com/in/adityashirsatrao">
@@ -20,6 +22,14 @@
   </a>
   <a href="https://orcid.org/0009-0006-7439-5369">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=adityashirsatrao007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="adityashirsatrao007 trophies" />
   </a>
 </div>
 
@@ -54,12 +64,16 @@
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   
-  <br/>
-  
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=adityashirsatrao007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityashirsatrao007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  </p>
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=adityashirsatrao007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityashirsatrao007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
   
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityashirsatrao007&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
