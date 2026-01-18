@@ -50,14 +50,6 @@
   </p>
 </div>
 
----
-
-<div align="center">
-  <h2>Socials</h2>
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=adityashirsatrao007&label=Profile%20views&color=FF6B6B&style=flat" alt="Profile Views" />
-</div>
-
 <br />
 
 [![An image of @adityashirsatrao007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityashirsatrao007)](https://holopin.io/@adityashirsatrao007)
