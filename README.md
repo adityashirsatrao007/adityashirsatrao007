@@ -1,7 +1,7 @@
 ![Background](https://github.com/adityashirsatrao007/adityashirsatrao007/blob/main/Banner.gif?raw=true)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=こんにちは+%F0%9F%99%8F,+I'm+Aditya+Shirsatrao;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Data+Science+Student+%F0%9F%8E%93;Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi,+I'm+Aditya+%F0%9F%91%8B;I+build+web+apps+%F0%9F%92%BB;I+like+AI+%26+Japan+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -28,20 +28,23 @@
 <br />
 
 <div align="center">
-  <h2>🧑‍💻 About Me</h2>
+  <h2>About</h2>
   <br>
   <p>
-    I'm an AI & Data Science student, currently bridging the gap between Solapur and Pune. My passion lies in building real-world digital solutions that matter—whether that's crafting intuitive web apps with <b>Next.js</b> and <b>Tailwind</b>, or engineering backend logic with <b>MongoDB</b>.
+    Hi, I'm Aditya. I'm currently studying AI & Data Science in Solapur, though I spend most of my time in Pune.
   </p>
   <p>
-    Beyond the syntax, I'm exploring the frontiers of <b>GenAI</b> and <b>Web3</b>. I'm also deeply invested in learning <b>Japanese</b> and preparing for <b>GATE</b>, aiming to take my tech journey global.
+    I love building full-stack apps—mostly jamming with <b>Next.js</b> and <b>MongoDB</b> lately. Right now, I'm deep diving into <b>GenAI</b> and learning <b>Japanese</b> (aiming for opportunities in Japan).
+  </p>
+  <p>
+    When I'm not coding, I'm usually prepping for GATE or checking out new open source projects.
   </p>
 </div>
 
 ---
 
 <div align="center">
-  <h2>🛠️ Tech Stack</h2>
+  <h2>Stack</h2>
   <p>
     <img src="https://skillicons.dev/icons?i=javascript,react,redux,nodejs,express,mongodb,html,css,tailwind,bootstrap,python,mysql,appwrite,github" height="40" alt="Tech Stack Icons"/>
   </p>
@@ -50,17 +53,12 @@
 ---
 
 <div align="center">
-  <h2>💬 Let's Connect</h2>
-  <p style="background: #0D1117; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 107, 107, 0.2); max-width: 800px; margin: 0 auto;">
-    Always excited to innovate, collaborate, and grow through building solutions that make a difference.
-  </p>
+  <h2>Socials</h2>
   <br />
   <img src="https://komarev.com/ghpvc/?username=adityashirsatrao007&label=Profile%20views&color=FF6B6B&style=flat" alt="Profile Views" />
 </div>
 
-<div align="center">
-  <p><i>"Solve. Build. Empower."</i></p>
-</div>
+<br />
 
 [![An image of @adityashirsatrao007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityashirsatrao007)](https://holopin.io/@adityashirsatrao007)
 
