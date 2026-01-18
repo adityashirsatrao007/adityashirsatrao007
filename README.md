@@ -31,7 +31,7 @@
   <h2>About</h2>
   <br>
   <p>
-    Hi, I'm Aditya. I'm currently studying AI & Data Science in Solapur, though I spend most of my time in Pune.
+    Hi, I'm Aditya. I'm currently studying AI & Data Science in Pune, though I spend most of my time in Solapur.
   </p>
   <p>
     I love building full-stack apps—mostly jamming with <b>Next.js</b> and <b>MongoDB</b> lately. Right now, I'm deep diving into <b>GenAI</b> and learning <b>Japanese</b> (aiming for opportunities in Japan).
