@@ -219,7 +219,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/playlist/4OAeLc2yZWdMWPDPsIKnIT?si=6_jvt0lPR0CIkPkrAOcnUQ">
-    <img src="./assets/spotify_playlist_card.png" alt="Spotify Playlist" width="380px" />
+    <img src="https://img.shields.io/badge/Spotify-Listen%20to%20my%20Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
   </a>
 </p>
 
