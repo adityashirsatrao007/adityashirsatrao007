@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Aditya%20Shirsatrao&fontSize=60&theme=tokyonight" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Aditya%20Shirsatrao&fontSize=55&fontAlignY=35&theme=tokyonight" width="100%" />
 
 <br/>
 
