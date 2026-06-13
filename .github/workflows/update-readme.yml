@@ -37,14 +37,20 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md dist/
+          git add README.md dist/ profile-3d-contrib/
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "auto: update dynamic stats, pull requests, and contribution grid snake"
+            git commit -m "auto: update dynamic stats, PRs, contribution grid snake, and 3D skyline"
             git push origin master
           fi
