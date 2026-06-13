@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Aditya%20Shirsatrao&fontSize=60&theme=tokyonight" width="100%" />
+
+<br/>
+
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdvdXB5ajN0eWJkcDNqZjUyYmZidnQ3bnprbHd5OGg1dzJwbWZjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ule4vhcY1xEKQ/giphy.gif" alt="Aditya Shirsatrao Banner" width="100%" />
 
 <br/>
@@ -13,6 +17,7 @@
 <img src="https://komarev.com/ghpvc/?username=adityashirsatrao007&label=Profile+Views&color=6E40C9&style=flat" alt="profile views" />
 
 </div>
+
 
 ---
 
@@ -207,6 +212,16 @@
   <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
   <img alt="GitHub contribution grid snake" src="dist/github-contribution-grid-snake.svg" />
 </picture>
+
+---
+
+## 🏅 My Holopin Badges
+
+<p align="center">
+  <a href="https://holopin.io/@adityashirsatrao007">
+    <img src="https://holopin.me/adityashirsatrao007" alt="An image of @adityashirsatrao007's Holopin badges, which is a link to view their full Holopin profile" />
+  </a>
+</p>
 
 ---
 
