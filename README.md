@@ -199,4 +199,6 @@ fun_fact: I've contributed to 40+ open source repos across the world 🌍
 
 <div align="center">
   <i>⭐ If you like my work, consider starring some repos! Thanks for visiting 🙏</i>
+  <br/><br/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDY4Zmp4MmQ2bmkxY2Jkb203OHpnOHlrOXFvbW5uNHFqMWhncjI5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uphkmumww8pao7eyxI/giphy.gif" alt="Footer Gif" width="400" />
 </div>
