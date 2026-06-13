@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Aditya%20Shirsatrao&fontSize=50&fontAlignY=40&theme=tokyonight" width="100%" />
-
-<br/>
-
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTdvdXB5ajN0eWJkcDNqZjUyYmZidnQ3bnprbHd5OGg1dzJwbWZjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ule4vhcY1xEKQ/giphy.gif" alt="Aditya Shirsatrao Banner" width="100%" />
 
 <br/>
