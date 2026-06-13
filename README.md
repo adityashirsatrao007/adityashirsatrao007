@@ -1,6 +1,8 @@
 <div align="center">
 
-# 👋 Hey, I'm Aditya Shirsatrao
+<img src="./assets/aditya_profile_banner.png" alt="Aditya Shirsatrao Banner" width="100%" />
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;ML+%26+Cybersecurity+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
