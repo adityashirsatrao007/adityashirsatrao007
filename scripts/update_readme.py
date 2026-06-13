@@ -69,14 +69,9 @@ def main():
 
     # Generate Highlights section
     highlights_content = f"""<div align="center">
-
-| 🏷️ Metric | 📊 Count |
-|-----------|---------|
-| ✅ Total Merged PRs | **{total_count}** |
-| 🌍 Unique Repositories | **{len(unique_repos)}+** |
-| 🏢 Unique Organizations | **{len(unique_orgs)}+** |
-| 📅 Active Since | **Jul 2025** |
-
+  <img src="https://img.shields.io/badge/Merged_PRs-{total_count}-6E40C9?style=for-the-badge&logo=git&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/Unique_Repos-{len(unique_repos)}+-32C850?style=for-the-badge&logo=github&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/Organizations-{len(unique_orgs)}+-007ACC?style=for-the-badge&logo=enterprise&logoColor=white" />
 </div>"""
 
     # Read README.md

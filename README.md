@@ -204,14 +204,9 @@
 
 <!-- START_HIGHLIGHTS -->
 <div align="center">
-
-| 🏷️ Metric | 📊 Count |
-|-----------|---------|
-| ✅ Total Merged PRs | **101** |
-| 🌍 Unique Repositories | **62+** |
-| 🏢 Unique Organizations | **36+** |
-| 📅 Active Since | **Jul 2025** |
-
+  <img src="https://img.shields.io/badge/Merged_PRs-101-6E40C9?style=for-the-badge&logo=git&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/Unique_Repos-62+-32C850?style=for-the-badge&logo=github&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/Organizations-36+-007ACC?style=for-the-badge&logo=enterprise&logoColor=white" />
 </div>
 <!-- END_HIGHLIGHTS -->
 
@@ -221,9 +216,9 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityashirsatrao007)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityashirsatrao)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/afiestic)
+<a href="https://github.com/adityashirsatrao007"><img src="https://skillicons.dev/icons?i=github" /></a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/adityashirsatrao"><img src="https://skillicons.dev/icons?i=linkedin" /></a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/afiestic"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 
 </div>
 
