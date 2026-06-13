@@ -54,44 +54,19 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <b>💻 Languages</b><br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <br/>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-    </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <b>💻 Languages & Core</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java" />
+      <br/><br/>
       <b>🎨 Frontend & UI</b><br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <br/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
     </td>
-    <td width="33%" valign="top">
-      <b>⚙️ Backend & Database</b><br/><br/>
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <br/><b>🤖 Machine Learning & AI</b><br/><br/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-    </td>
-    <td width="33%" valign="top">
-      <br/><b>📦 DevOps & Systems</b><br/><br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <br/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <br/>
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-    </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <b>⚙️ Backend, Databases & ML</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,tensorflow,pytorch" />
+      <br/><br/>
+      <b>📦 DevOps & Systems</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=docker,git,linux,githubactions" />
     </td>
   </tr>
 </table>
