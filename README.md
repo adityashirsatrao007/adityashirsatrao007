@@ -200,24 +200,13 @@
 
 ---
 
-## 🐍 My Contribution Skyline
+## 🐍 My Contribution Grid Snake
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <b>Flat Animated Snake</b><br/><br/>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
-        <img alt="GitHub contribution grid snake" src="dist/github-contribution-grid-snake.svg" width="100%" />
-      </picture>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <b>Isometric 3D City Skyline</b><br/><br/>
-      <img src="profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Skyline" />
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake" src="dist/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
@@ -231,20 +220,13 @@
 </div>
 <!-- END_HIGHLIGHTS -->
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <b>🎵 My Coding Beats</b><br/><br/>
-      <a href="https://open.spotify.com/playlist/4OAeLc2yZWdMWPDPsIKnIT?si=6_jvt0lPR0CIkPkrAOcnUQ">
-        <img src="https://img.shields.io/badge/Spotify-Listen%20to%20my%20Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <b>🌍 Live India Weather</b><br/><br/>
-      <img src="https://wttr.in/India_3.png" alt="Local Weather" width="90%" />
-    </td>
-  </tr>
-</table>
+## 🎵 My Coding Beats
+
+<p align="center">
+  <a href="https://open.spotify.com/playlist/4OAeLc2yZWdMWPDPsIKnIT?si=6_jvt0lPR0CIkPkrAOcnUQ">
+    <img src="https://img.shields.io/badge/Spotify-Listen%20to%20my%20Playlist-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
+  </a>
+</p>
 
 ---
 
