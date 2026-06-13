@@ -42,11 +42,16 @@
   </tr>
 </table>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityashirsatrao007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="languages"/>
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityashirsatrao007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="95%" alt="languages"/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adityashirsatrao007&theme=tokyonight&hide_border=true&layout=compact" width="95%" alt="wakatime"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -209,6 +214,14 @@
   <img src="https://img.shields.io/badge/Organizations-36+-007ACC?style=for-the-badge&logo=enterprise&logoColor=white" />
 </div>
 <!-- END_HIGHLIGHTS -->
+
+## 🎵 My Coding Beats
+
+<p align="center">
+  <a href="https://open.spotify.com/playlist/4OAeLc2yZWdMWPDPsIKnIT?si=6_jvt0lPR0CIkPkrAOcnUQ">
+    <img src="./assets/spotify_playlist_card.png" alt="Spotify Playlist" width="380px" />
+  </a>
+</p>
 
 ---
 
