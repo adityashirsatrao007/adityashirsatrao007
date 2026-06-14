@@ -49,7 +49,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityashirsatrao007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="95%" alt="languages"/>
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adityashirsatrao007&theme=tokyonight&hide_border=true&layout=compact" width="95%" alt="wakatime"/>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adityashirsatrao007&theme=tokyonight&hide_border=true&layout=compact&v=1" width="95%" alt="wakatime"/>
     </td>
   </tr>
 </table>
