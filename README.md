@@ -90,7 +90,7 @@
 
 <!-- START_PR_LIST -->
 <details>
-<summary><b>📂 Click to expand / collapse the full list of 97 merged pull requests</b></summary>
+<summary><b>📂 Click to expand / collapse the full list of 99 merged pull requests</b></summary>
 <br/>
 
 | # | PR Title | Repository | Merged On |
@@ -117,81 +117,83 @@
 | 20 | [fix: leave balance not showing in employee dashboard (#31)](https://github.com/Abhishek-Verma0/Employee-Leave-Management-System/pull/37) | [Abhishek-Verma0/Employee-Leave-Management-System](https://github.com/Abhishek-Verma0/Employee-Leave-Management-System) | May 25, 2026 |
 | 21 | [fix: evidence file upload progress bar not accurate (#153 #154)](https://github.com/Akshay473/forensic-pro-suite/pull/159) | [Akshay473/forensic-pro-suite](https://github.com/Akshay473/forensic-pro-suite) | May 26, 2026 |
 | 22 | [fix: remove currentPage from useEffect deps to prevent pagination reset loop](https://github.com/12fahed/CertiNova/pull/43) | [12fahed/CertiNova](https://github.com/12fahed/CertiNova) | May 24, 2026 |
-| 23 | [Fix: Reserve space for recipe images to prevent layout shift](https://github.com/adithyan-css/Brownie-Bliss/pull/214) | [adithyan-css/Brownie-Bliss](https://github.com/adithyan-css/Brownie-Bliss) | May 21, 2026 |
-| 24 | [feat: Add pagination support for search results](https://github.com/Abhash-Chakraborty/Find/pull/208) | [Abhash-Chakraborty/Find](https://github.com/Abhash-Chakraborty/Find) | May 25, 2026 |
-| 25 | [Fix: Add sort dropdown to search results](https://github.com/algoscope-hq/AlgoScope/pull/234) | [algoscope-hq/AlgoScope](https://github.com/algoscope-hq/AlgoScope) | May 22, 2026 |
-| 26 | [Fix: Missing city coordinates causing distance to show ---](https://github.com/Nikhilrsingh/car-transport-service/pull/1262) | [Nikhilrsingh/car-transport-service](https://github.com/Nikhilrsingh/car-transport-service) | May 20, 2026 |
-| 27 | [fix(frame): add size and duplicate-name guards to Frame::add_column](https://github.com/im-anishraj/arnio/pull/937) | [im-anishraj/arnio](https://github.com/im-anishraj/arnio) | May 21, 2026 |
-| 28 | [feat: Enron Dataset & Mobile Threat Pipeline](https://github.com/SurajsinghBayas/SentinelX/pull/4) | [SurajsinghBayas/SentinelX](https://github.com/SurajsinghBayas/SentinelX) | May 08, 2026 |
-| 29 | [feat: SOC enhancements, SOAR playbooks, and investigative tools](https://github.com/SurajsinghBayas/SentinelX/pull/3) | [SurajsinghBayas/SentinelX](https://github.com/SurajsinghBayas/SentinelX) | May 08, 2026 |
-| 30 | [feat: Hackathon Readiness & SOC Dashboard Overhaul](https://github.com/SurajsinghBayas/SentinelX/pull/2) | [SurajsinghBayas/SentinelX](https://github.com/SurajsinghBayas/SentinelX) | May 08, 2026 |
-| 31 | [feat: Add C++ and Java SDK mocks](https://github.com/adityashirsatrao007/tracelify-sdk/pull/1) | [adityashirsatrao007/tracelify-sdk](https://github.com/adityashirsatrao007/tracelify-sdk) | Apr 04, 2026 |
-| 32 | [Fix Hackathon Architectural flaws](https://github.com/adityashirsatrao007/nyaya-ai-fir-system/pull/2) | [adityashirsatrao007/nyaya-ai-fir-system](https://github.com/adityashirsatrao007/nyaya-ai-fir-system) | Mar 10, 2026 |
-| 33 | [feat(ui): Display detailed IPC statutes and key forensic factors on dashboard cards](https://github.com/adityashirsatrao007/nyaya-ai-fir-system/pull/1) | [adityashirsatrao007/nyaya-ai-fir-system](https://github.com/adityashirsatrao007/nyaya-ai-fir-system) | Mar 10, 2026 |
-| 34 | [my first contribution](https://github.com/afiestic/Contributing/pull/3) | [afiestic/Contributing](https://github.com/afiestic/Contributing) | Dec 28, 2025 |
-| 35 | [Implemented Cyberpunk UI & Styling](https://github.com/opencodeiiita/Cyber_lens/pull/63) | [opencodeiiita/Cyber_lens](https://github.com/opencodeiiita/Cyber_lens) | Dec 28, 2025 |
-| 36 | [Added SpaceNet EDA Notebook](https://github.com/opencodeiiita/Celestial_Vision/pull/55) | [opencodeiiita/Celestial_Vision](https://github.com/opencodeiiita/Celestial_Vision) | Dec 27, 2025 |
-| 37 | [feat(ui): implement dynamic dark mode onboarding](https://github.com/opencodeiiita/Alum-X-Frontend/pull/21) | [opencodeiiita/Alum-X-Frontend](https://github.com/opencodeiiita/Alum-X-Frontend) | Dec 27, 2025 |
-| 38 | [Add find command documentation](https://github.com/opencodeiiita/Learn_To_Hack/pull/85) | [opencodeiiita/Learn_To_Hack](https://github.com/opencodeiiita/Learn_To_Hack) | Dec 27, 2025 |
-| 39 | [chore: Setup Verified - Added Contributor Details 🎮](https://github.com/opencodeiiita/PixDash/pull/32) | [opencodeiiita/PixDash](https://github.com/opencodeiiita/PixDash) | Dec 26, 2025 |
-| 40 | [feat: implement dev-only user api](https://github.com/opencodeiiita/Alum-X-Backend/pull/37) | [opencodeiiita/Alum-X-Backend](https://github.com/opencodeiiita/Alum-X-Backend) | Dec 26, 2025 |
-| 41 | [Added myself to contributors](https://github.com/opencodeiiita/Cyber_lens/pull/30) | [opencodeiiita/Cyber_lens](https://github.com/opencodeiiita/Cyber_lens) | Dec 26, 2025 |
-| 42 | [Added myself to contributors](https://github.com/opencodeiiita/MotionKit/pull/18) | [opencodeiiita/MotionKit](https://github.com/opencodeiiita/MotionKit) | Dec 26, 2025 |
-| 43 | [feat: design and implement core subscription model](https://github.com/opencodeiiita/Subsentry/pull/17) | [opencodeiiita/Subsentry](https://github.com/opencodeiiita/Subsentry) | Dec 26, 2025 |
-| 44 | [feat: setup express server with mongodb connection](https://github.com/opencodeiiita/Subsentry/pull/16) | [opencodeiiita/Subsentry](https://github.com/opencodeiiita/Subsentry) | Dec 26, 2025 |
-| 45 | [feat: implement clerk authentication foundation](https://github.com/opencodeiiita/Subsentry/pull/15) | [opencodeiiita/Subsentry](https://github.com/opencodeiiita/Subsentry) | Dec 26, 2025 |
-| 46 | [(design): redesigned getting started screen with high-end UI](https://github.com/opencodeiiita/Blob/pull/14) | [opencodeiiita/Blob](https://github.com/opencodeiiita/Blob) | Dec 26, 2025 |
-| 47 | [docs: add adityashirsatrao007 to contributors (Issue #2)](https://github.com/opencodeiiita/Blob/pull/13) | [opencodeiiita/Blob](https://github.com/opencodeiiita/Blob) | Dec 26, 2025 |
-| 48 | [docs: add adityashirsatrao007 to contributors](https://github.com/opencodeiiita/SnapMap/pull/14) | [opencodeiiita/SnapMap](https://github.com/opencodeiiita/SnapMap) | Dec 26, 2025 |
-| 49 | [docs: add adityashirsatrao007 to participants](https://github.com/opencodeiiita/SpaceChat/pull/10) | [opencodeiiita/SpaceChat](https://github.com/opencodeiiita/SpaceChat) | Dec 26, 2025 |
-| 50 | [docs: add adityashirsatrao007 to participants](https://github.com/opencodeiiita/habitable-planet-hunter/pull/15) | [opencodeiiita/habitable-planet-hunter](https://github.com/opencodeiiita/habitable-planet-hunter) | Dec 26, 2025 |
-| 51 | [Added Aditya Shirsatrao to contributors](https://github.com/opencodeiiita/CP-Chronicles/pull/39) | [opencodeiiita/CP-Chronicles](https://github.com/opencodeiiita/CP-Chronicles) | Dec 26, 2025 |
-| 52 | [Added 23062231995027 to contributors](https://github.com/opencodeiiita/CareerCraft/pull/9) | [opencodeiiita/CareerCraft](https://github.com/opencodeiiita/CareerCraft) | Dec 26, 2025 |
-| 53 | [Added 23062231995027 to contributors](https://github.com/opencodeiiita/Celestial_Vision/pull/10) | [opencodeiiita/Celestial_Vision](https://github.com/opencodeiiita/Celestial_Vision) | Dec 26, 2025 |
-| 54 | [Added 23062231995027 to contributors](https://github.com/opencodeiiita/Questline/pull/2) | [opencodeiiita/Questline](https://github.com/opencodeiiita/Questline) | Dec 26, 2025 |
-| 55 | [Added Aditya Shirsatrao to contributors](https://github.com/opencodeiiita/GoGit-5.0/pull/23) | [opencodeiiita/GoGit-5.0](https://github.com/opencodeiiita/GoGit-5.0) | Dec 26, 2025 |
-| 56 | [Added Aditya Shirsatrao to contributors](https://github.com/opencodeiiita/Echo/pull/17) | [opencodeiiita/Echo](https://github.com/opencodeiiita/Echo) | Dec 26, 2025 |
-| 57 | [Added 23062231995027 to contributors](https://github.com/opencodeiiita/Loktantra/pull/8) | [opencodeiiita/Loktantra](https://github.com/opencodeiiita/Loktantra) | Dec 26, 2025 |
-| 58 | [Added Aditya Shirsatrao to Contributors](https://github.com/opencodeiiita/DING/pull/7) | [opencodeiiita/DING](https://github.com/opencodeiiita/DING) | Dec 26, 2025 |
-| 59 | [Added 23062231995027 to contributors](https://github.com/opencodeiiita/PixDash/pull/7) | [opencodeiiita/PixDash](https://github.com/opencodeiiita/PixDash) | Dec 26, 2025 |
-| 60 | [Added adityashirsatrao007 to contributors](https://github.com/opencodeiiita/EventChain/pull/12) | [opencodeiiita/EventChain](https://github.com/opencodeiiita/EventChain) | Dec 26, 2025 |
-| 61 | [Added Aditya Shirsatrao to Contributors-list](https://github.com/opencodeiiita/AppCosmos/pull/3) | [opencodeiiita/AppCosmos](https://github.com/opencodeiiita/AppCosmos) | Dec 26, 2025 |
-| 62 | [Added Aditya Shirsatrao to contribution.md](https://github.com/opencodeiiita/Alum-X-Frontend/pull/4) | [opencodeiiita/Alum-X-Frontend](https://github.com/opencodeiiita/Alum-X-Frontend) | Dec 26, 2025 |
-| 63 | [Added Aditya Shirsatrao to contribution.md](https://github.com/opencodeiiita/Alum-X-Backend/pull/7) | [opencodeiiita/Alum-X-Backend](https://github.com/opencodeiiita/Alum-X-Backend) | Dec 26, 2025 |
-| 64 | [Implemented Easy Prefix Sum Solutions (Issue #12)](https://github.com/opencodeiiita/CodeCraft/pull/20) | [opencodeiiita/CodeCraft](https://github.com/opencodeiiita/CodeCraft) | Dec 26, 2025 |
-| 65 | [Added adityashirsatrao007 to contributors list](https://github.com/opencodeiiita/Subsentry/pull/5) | [opencodeiiita/Subsentry](https://github.com/opencodeiiita/Subsentry) | Dec 26, 2025 |
-| 66 | [Added adityashirsatrao007 to contributors](https://github.com/opencodeiiita/Ba-Effe/pull/5) | [opencodeiiita/Ba-Effe](https://github.com/opencodeiiita/Ba-Effe) | Dec 26, 2025 |
-| 67 | [Added adityashirsatrao007 to contributors list](https://github.com/opencodeiiita/Learn_To_Hack/pull/7) | [opencodeiiita/Learn_To_Hack](https://github.com/opencodeiiita/Learn_To_Hack) | Dec 26, 2025 |
-| 68 | [Added header file](https://github.com/afiestic/Contributing/pull/2) | [afiestic/Contributing](https://github.com/afiestic/Contributing) | Dec 20, 2025 |
-| 69 | [first contribution from aditya](https://github.com/afiestic/Contributing/pull/1) | [afiestic/Contributing](https://github.com/afiestic/Contributing) | Dec 20, 2025 |
-| 70 | [refactor: Implement domain architecture for pets and vaccinations (Fixes #93)](https://github.com/josdem/py-vetlog-buddy/pull/118) | [josdem/py-vetlog-buddy](https://github.com/josdem/py-vetlog-buddy) | Dec 17, 2025 |
-| 71 | [🐛 fix: support delete/update for out-of-line keys](https://github.com/haroonwaves/idb-crud/pull/43) | [haroonwaves/idb-crud](https://github.com/haroonwaves/idb-crud) | Jan 26, 2026 |
-| 72 | [feat(workflow): improve Add node discovery](https://github.com/twentyhq/twenty/pull/16547) | [twentyhq/twenty](https://github.com/twentyhq/twenty) | Dec 15, 2025 |
-| 73 | [test: convert AppDirectory test to Jest and run in CI](https://github.com/finos/FDC3/pull/1720) | [finos/FDC3](https://github.com/finos/FDC3) | Mar 13, 2026 |
-| 74 | [test: add unit tests for LogEntrytAdmin.get_search_results](https://github.com/DjangoCRM/django-crm/pull/356) | [DjangoCRM/django-crm](https://github.com/DjangoCRM/django-crm) | Dec 17, 2025 |
-| 75 | [feat: add config file with Settings class for database credentials](https://github.com/josdem/py-vetlog-buddy/pull/113) | [josdem/py-vetlog-buddy](https://github.com/josdem/py-vetlog-buddy) | Dec 11, 2025 |
-| 76 | [refactor(examples): modularize account_create_transaction_create_with_alias](https://github.com/hiero-ledger/hiero-sdk-python/pull/1030) | [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python) | Dec 11, 2025 |
-| 77 | [feat: add support for single audio files and multiple formats](https://github.com/gabrieltomasin/erastus-deprecated/pull/4) | [gabrieltomasin/erastus-deprecated](https://github.com/gabrieltomasin/erastus-deprecated) | Dec 13, 2025 |
-| 78 | [feat(react): add dark mode support to UI components (Fixes #18)](https://github.com/haroonwaves/blog-kit/pull/19) | [haroonwaves/blog-kit](https://github.com/haroonwaves/blog-kit) | Dec 10, 2025 |
-| 79 | [feat: Implement full CRUD for MediaController](https://github.com/Mbazie-Kone/MusicLearningLibrary/pull/21) | [Mbazie-Kone/MusicLearningLibrary](https://github.com/Mbazie-Kone/MusicLearningLibrary) | Dec 08, 2025 |
-| 80 | [test: add unit tests for crypto_utils (Issue #993)](https://github.com/hiero-ledger/hiero-sdk-python/pull/1006) | [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python) | Dec 10, 2025 |
-| 81 | [feat(python): Add examples (deduplicate, delay) and tests (Issue #42)](https://github.com/wingfoil-io/wingfoil/pull/47) | [wingfoil-io/wingfoil](https://github.com/wingfoil-io/wingfoil) | Dec 11, 2025 |
-| 82 | [feat: Add client-side form validation (Issue #9)](https://github.com/AnshulSharma9340/Face-Based-Attendance-Attribute-System/pull/10) | [AnshulSharma9340/Face-Based-Attendance-Attribute-System](https://github.com/AnshulSharma9340/Face-Based-Attendance-Attribute-System) | Dec 08, 2025 |
-| 83 | [feat: Add Light/Dark Theme Toggle with localStorage Persistence](https://github.com/AnshulSharma9340/Face-Based-Attendance-Attribute-System/pull/6) | [AnshulSharma9340/Face-Based-Attendance-Attribute-System](https://github.com/AnshulSharma9340/Face-Based-Attendance-Attribute-System) | Dec 08, 2025 |
-| 84 | [Add AOS scroll animations to enhance user experience](https://github.com/opensource-society/notesvault/pull/1044) | [opensource-society/notesvault](https://github.com/opensource-society/notesvault) | Jan 07, 2026 |
-| 85 | [feat: Add ElectronHostHook sample application (#967)](https://github.com/ElectronNET/Electron.NET/pull/968) | [ElectronNET/Electron.NET](https://github.com/ElectronNET/Electron.NET) | Dec 09, 2025 |
-| 86 | [feat: Add WindowStream for time-based windowing (#43)](https://github.com/wingfoil-io/wingfoil/pull/45) | [wingfoil-io/wingfoil](https://github.com/wingfoil-io/wingfoil) | Dec 08, 2025 |
-| 87 | [feat: Add Acceptance Criteria to Good First Issue Template (#997)](https://github.com/hiero-ledger/hiero-sdk-python/pull/998) | [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python) | Dec 07, 2025 |
-| 88 | [feat: implement GET /api/media endpoint (#10)](https://github.com/Mbazie-Kone/MusicLearningLibrary/pull/12) | [Mbazie-Kone/MusicLearningLibrary](https://github.com/Mbazie-Kone/MusicLearningLibrary) | Dec 07, 2025 |
-| 89 | [fix: resolve mypy errors in scripts/ and examples/ (#83)](https://github.com/c-daly/sophia/pull/86) | [c-daly/sophia](https://github.com/c-daly/sophia) | Dec 07, 2025 |
-| 90 | [Fix typo: recieve -> receive in WebSocket handler](https://github.com/web-platform-tests/wpt/pull/55525) | [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt) | Oct 18, 2025 |
-| 91 | [Improve Contact Form Validation and Accessibility](https://github.com/InnoWebLabs/Vehigo/pull/852) | [InnoWebLabs/Vehigo](https://github.com/InnoWebLabs/Vehigo) | Oct 04, 2025 |
-| 92 | [Improve Contact Form Validation and Accessibility](https://github.com/InnoWebLabs/Vehigo/pull/851) | [InnoWebLabs/Vehigo](https://github.com/InnoWebLabs/Vehigo) | Oct 04, 2025 |
-| 93 | [Enhance User Experience with Comprehensive Accessibility Improvements](https://github.com/NiranjanKumar001/Profocto/pull/63) | [NiranjanKumar001/Profocto](https://github.com/NiranjanKumar001/Profocto) | Oct 03, 2025 |
-| 94 | [🔒♿🚀 Security, Accessibility & Performance Improvements](https://github.com/InnoWebLabs/Vehigo/pull/843) | [InnoWebLabs/Vehigo](https://github.com/InnoWebLabs/Vehigo) | Oct 02, 2025 |
-| 95 | [Feature/dark theme](https://github.com/sampadatiwari30/DeshDarshan/pull/471) | [sampadatiwari30/DeshDarshan](https://github.com/sampadatiwari30/DeshDarshan) | Aug 11, 2025 |
-| 96 | [Fix Telugu translation issues and cleanup](https://github.com/firstcontributions/first-contributions/pull/101191) | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | Jul 29, 2025 |
-| 97 | [Remove Slack links from Spanish translation and add code contribution…](https://github.com/firstcontributions/first-contributions/pull/101190) | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | Jul 29, 2025 |
+| 23 | [fix: replace native alert() with styled toast in RegistrationPage](https://github.com/SandeepVashishtha/Eventra/pull/1443) | [SandeepVashishtha/Eventra](https://github.com/SandeepVashishtha/Eventra) | May 24, 2026 |
+| 24 | [Fix: Send RSVP confirmation email and fix footer links on mobile](https://github.com/SandeepVashishtha/Eventra/pull/1438) | [SandeepVashishtha/Eventra](https://github.com/SandeepVashishtha/Eventra) | May 22, 2026 |
+| 25 | [Fix: Reserve space for recipe images to prevent layout shift](https://github.com/adithyan-css/Brownie-Bliss/pull/214) | [adithyan-css/Brownie-Bliss](https://github.com/adithyan-css/Brownie-Bliss) | May 21, 2026 |
+| 26 | [feat: Add pagination support for search results](https://github.com/Abhash-Chakraborty/Find/pull/208) | [Abhash-Chakraborty/Find](https://github.com/Abhash-Chakraborty/Find) | May 25, 2026 |
+| 27 | [Fix: Add sort dropdown to search results](https://github.com/algoscope-hq/AlgoScope/pull/234) | [algoscope-hq/AlgoScope](https://github.com/algoscope-hq/AlgoScope) | May 22, 2026 |
+| 28 | [Fix: Missing city coordinates causing distance to show ---](https://github.com/Nikhilrsingh/car-transport-service/pull/1262) | [Nikhilrsingh/car-transport-service](https://github.com/Nikhilrsingh/car-transport-service) | May 20, 2026 |
+| 29 | [fix(frame): add size and duplicate-name guards to Frame::add_column](https://github.com/im-anishraj/arnio/pull/937) | [im-anishraj/arnio](https://github.com/im-anishraj/arnio) | May 21, 2026 |
+| 30 | [feat: Enron Dataset & Mobile Threat Pipeline](https://github.com/SurajsinghBayas/SentinelX/pull/4) | [SurajsinghBayas/SentinelX](https://github.com/SurajsinghBayas/SentinelX) | May 08, 2026 |
+| 31 | [feat: SOC enhancements, SOAR playbooks, and investigative tools](https://github.com/SurajsinghBayas/SentinelX/pull/3) | [SurajsinghBayas/SentinelX](https://github.com/SurajsinghBayas/SentinelX) | May 08, 2026 |
+| 32 | [feat: Hackathon Readiness & SOC Dashboard Overhaul](https://github.com/SurajsinghBayas/SentinelX/pull/2) | [SurajsinghBayas/SentinelX](https://github.com/SurajsinghBayas/SentinelX) | May 08, 2026 |
+| 33 | [feat: Add C++ and Java SDK mocks](https://github.com/adityashirsatrao007/tracelify-sdk/pull/1) | [adityashirsatrao007/tracelify-sdk](https://github.com/adityashirsatrao007/tracelify-sdk) | Apr 04, 2026 |
+| 34 | [Fix Hackathon Architectural flaws](https://github.com/adityashirsatrao007/nyaya-ai-fir-system/pull/2) | [adityashirsatrao007/nyaya-ai-fir-system](https://github.com/adityashirsatrao007/nyaya-ai-fir-system) | Mar 10, 2026 |
+| 35 | [feat(ui): Display detailed IPC statutes and key forensic factors on dashboard cards](https://github.com/adityashirsatrao007/nyaya-ai-fir-system/pull/1) | [adityashirsatrao007/nyaya-ai-fir-system](https://github.com/adityashirsatrao007/nyaya-ai-fir-system) | Mar 10, 2026 |
+| 36 | [my first contribution](https://github.com/afiestic/Contributing/pull/3) | [afiestic/Contributing](https://github.com/afiestic/Contributing) | Dec 28, 2025 |
+| 37 | [Implemented Cyberpunk UI & Styling](https://github.com/opencodeiiita/Cyber_lens/pull/63) | [opencodeiiita/Cyber_lens](https://github.com/opencodeiiita/Cyber_lens) | Dec 28, 2025 |
+| 38 | [Added SpaceNet EDA Notebook](https://github.com/opencodeiiita/Celestial_Vision/pull/55) | [opencodeiiita/Celestial_Vision](https://github.com/opencodeiiita/Celestial_Vision) | Dec 27, 2025 |
+| 39 | [feat(ui): implement dynamic dark mode onboarding](https://github.com/opencodeiiita/Alum-X-Frontend/pull/21) | [opencodeiiita/Alum-X-Frontend](https://github.com/opencodeiiita/Alum-X-Frontend) | Dec 27, 2025 |
+| 40 | [Add find command documentation](https://github.com/opencodeiiita/Learn_To_Hack/pull/85) | [opencodeiiita/Learn_To_Hack](https://github.com/opencodeiiita/Learn_To_Hack) | Dec 27, 2025 |
+| 41 | [chore: Setup Verified - Added Contributor Details 🎮](https://github.com/opencodeiiita/PixDash/pull/32) | [opencodeiiita/PixDash](https://github.com/opencodeiiita/PixDash) | Dec 26, 2025 |
+| 42 | [feat: implement dev-only user api](https://github.com/opencodeiiita/Alum-X-Backend/pull/37) | [opencodeiiita/Alum-X-Backend](https://github.com/opencodeiiita/Alum-X-Backend) | Dec 26, 2025 |
+| 43 | [Added myself to contributors](https://github.com/opencodeiiita/Cyber_lens/pull/30) | [opencodeiiita/Cyber_lens](https://github.com/opencodeiiita/Cyber_lens) | Dec 26, 2025 |
+| 44 | [Added myself to contributors](https://github.com/opencodeiiita/MotionKit/pull/18) | [opencodeiiita/MotionKit](https://github.com/opencodeiiita/MotionKit) | Dec 26, 2025 |
+| 45 | [feat: design and implement core subscription model](https://github.com/opencodeiiita/Subsentry/pull/17) | [opencodeiiita/Subsentry](https://github.com/opencodeiiita/Subsentry) | Dec 26, 2025 |
+| 46 | [feat: setup express server with mongodb connection](https://github.com/opencodeiiita/Subsentry/pull/16) | [opencodeiiita/Subsentry](https://github.com/opencodeiiita/Subsentry) | Dec 26, 2025 |
+| 47 | [feat: implement clerk authentication foundation](https://github.com/opencodeiiita/Subsentry/pull/15) | [opencodeiiita/Subsentry](https://github.com/opencodeiiita/Subsentry) | Dec 26, 2025 |
+| 48 | [(design): redesigned getting started screen with high-end UI](https://github.com/opencodeiiita/Blob/pull/14) | [opencodeiiita/Blob](https://github.com/opencodeiiita/Blob) | Dec 26, 2025 |
+| 49 | [docs: add adityashirsatrao007 to contributors (Issue #2)](https://github.com/opencodeiiita/Blob/pull/13) | [opencodeiiita/Blob](https://github.com/opencodeiiita/Blob) | Dec 26, 2025 |
+| 50 | [docs: add adityashirsatrao007 to contributors](https://github.com/opencodeiiita/SnapMap/pull/14) | [opencodeiiita/SnapMap](https://github.com/opencodeiiita/SnapMap) | Dec 26, 2025 |
+| 51 | [docs: add adityashirsatrao007 to participants](https://github.com/opencodeiiita/SpaceChat/pull/10) | [opencodeiiita/SpaceChat](https://github.com/opencodeiiita/SpaceChat) | Dec 26, 2025 |
+| 52 | [docs: add adityashirsatrao007 to participants](https://github.com/opencodeiiita/habitable-planet-hunter/pull/15) | [opencodeiiita/habitable-planet-hunter](https://github.com/opencodeiiita/habitable-planet-hunter) | Dec 26, 2025 |
+| 53 | [Added Aditya Shirsatrao to contributors](https://github.com/opencodeiiita/CP-Chronicles/pull/39) | [opencodeiiita/CP-Chronicles](https://github.com/opencodeiiita/CP-Chronicles) | Dec 26, 2025 |
+| 54 | [Added 23062231995027 to contributors](https://github.com/opencodeiiita/CareerCraft/pull/9) | [opencodeiiita/CareerCraft](https://github.com/opencodeiiita/CareerCraft) | Dec 26, 2025 |
+| 55 | [Added 23062231995027 to contributors](https://github.com/opencodeiiita/Celestial_Vision/pull/10) | [opencodeiiita/Celestial_Vision](https://github.com/opencodeiiita/Celestial_Vision) | Dec 26, 2025 |
+| 56 | [Added 23062231995027 to contributors](https://github.com/opencodeiiita/Questline/pull/2) | [opencodeiiita/Questline](https://github.com/opencodeiiita/Questline) | Dec 26, 2025 |
+| 57 | [Added Aditya Shirsatrao to contributors](https://github.com/opencodeiiita/GoGit-5.0/pull/23) | [opencodeiiita/GoGit-5.0](https://github.com/opencodeiiita/GoGit-5.0) | Dec 26, 2025 |
+| 58 | [Added Aditya Shirsatrao to contributors](https://github.com/opencodeiiita/Echo/pull/17) | [opencodeiiita/Echo](https://github.com/opencodeiiita/Echo) | Dec 26, 2025 |
+| 59 | [Added 23062231995027 to contributors](https://github.com/opencodeiiita/Loktantra/pull/8) | [opencodeiiita/Loktantra](https://github.com/opencodeiiita/Loktantra) | Dec 26, 2025 |
+| 60 | [Added Aditya Shirsatrao to Contributors](https://github.com/opencodeiiita/DING/pull/7) | [opencodeiiita/DING](https://github.com/opencodeiiita/DING) | Dec 26, 2025 |
+| 61 | [Added 23062231995027 to contributors](https://github.com/opencodeiiita/PixDash/pull/7) | [opencodeiiita/PixDash](https://github.com/opencodeiiita/PixDash) | Dec 26, 2025 |
+| 62 | [Added adityashirsatrao007 to contributors](https://github.com/opencodeiiita/EventChain/pull/12) | [opencodeiiita/EventChain](https://github.com/opencodeiiita/EventChain) | Dec 26, 2025 |
+| 63 | [Added Aditya Shirsatrao to Contributors-list](https://github.com/opencodeiiita/AppCosmos/pull/3) | [opencodeiiita/AppCosmos](https://github.com/opencodeiiita/AppCosmos) | Dec 26, 2025 |
+| 64 | [Added Aditya Shirsatrao to contribution.md](https://github.com/opencodeiiita/Alum-X-Frontend/pull/4) | [opencodeiiita/Alum-X-Frontend](https://github.com/opencodeiiita/Alum-X-Frontend) | Dec 26, 2025 |
+| 65 | [Added Aditya Shirsatrao to contribution.md](https://github.com/opencodeiiita/Alum-X-Backend/pull/7) | [opencodeiiita/Alum-X-Backend](https://github.com/opencodeiiita/Alum-X-Backend) | Dec 26, 2025 |
+| 66 | [Implemented Easy Prefix Sum Solutions (Issue #12)](https://github.com/opencodeiiita/CodeCraft/pull/20) | [opencodeiiita/CodeCraft](https://github.com/opencodeiiita/CodeCraft) | Dec 26, 2025 |
+| 67 | [Added adityashirsatrao007 to contributors list](https://github.com/opencodeiiita/Subsentry/pull/5) | [opencodeiiita/Subsentry](https://github.com/opencodeiiita/Subsentry) | Dec 26, 2025 |
+| 68 | [Added adityashirsatrao007 to contributors](https://github.com/opencodeiiita/Ba-Effe/pull/5) | [opencodeiiita/Ba-Effe](https://github.com/opencodeiiita/Ba-Effe) | Dec 26, 2025 |
+| 69 | [Added adityashirsatrao007 to contributors list](https://github.com/opencodeiiita/Learn_To_Hack/pull/7) | [opencodeiiita/Learn_To_Hack](https://github.com/opencodeiiita/Learn_To_Hack) | Dec 26, 2025 |
+| 70 | [Added header file](https://github.com/afiestic/Contributing/pull/2) | [afiestic/Contributing](https://github.com/afiestic/Contributing) | Dec 20, 2025 |
+| 71 | [first contribution from aditya](https://github.com/afiestic/Contributing/pull/1) | [afiestic/Contributing](https://github.com/afiestic/Contributing) | Dec 20, 2025 |
+| 72 | [refactor: Implement domain architecture for pets and vaccinations (Fixes #93)](https://github.com/josdem/py-vetlog-buddy/pull/118) | [josdem/py-vetlog-buddy](https://github.com/josdem/py-vetlog-buddy) | Dec 17, 2025 |
+| 73 | [🐛 fix: support delete/update for out-of-line keys](https://github.com/haroonwaves/idb-crud/pull/43) | [haroonwaves/idb-crud](https://github.com/haroonwaves/idb-crud) | Jan 26, 2026 |
+| 74 | [feat(workflow): improve Add node discovery](https://github.com/twentyhq/twenty/pull/16547) | [twentyhq/twenty](https://github.com/twentyhq/twenty) | Dec 15, 2025 |
+| 75 | [test: convert AppDirectory test to Jest and run in CI](https://github.com/finos/FDC3/pull/1720) | [finos/FDC3](https://github.com/finos/FDC3) | Mar 13, 2026 |
+| 76 | [test: add unit tests for LogEntrytAdmin.get_search_results](https://github.com/DjangoCRM/django-crm/pull/356) | [DjangoCRM/django-crm](https://github.com/DjangoCRM/django-crm) | Dec 17, 2025 |
+| 77 | [feat: add config file with Settings class for database credentials](https://github.com/josdem/py-vetlog-buddy/pull/113) | [josdem/py-vetlog-buddy](https://github.com/josdem/py-vetlog-buddy) | Dec 11, 2025 |
+| 78 | [refactor(examples): modularize account_create_transaction_create_with_alias](https://github.com/hiero-ledger/hiero-sdk-python/pull/1030) | [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python) | Dec 11, 2025 |
+| 79 | [feat: add support for single audio files and multiple formats](https://github.com/gabrieltomasin/erastus-deprecated/pull/4) | [gabrieltomasin/erastus-deprecated](https://github.com/gabrieltomasin/erastus-deprecated) | Dec 13, 2025 |
+| 80 | [feat(react): add dark mode support to UI components (Fixes #18)](https://github.com/haroonwaves/blog-kit/pull/19) | [haroonwaves/blog-kit](https://github.com/haroonwaves/blog-kit) | Dec 10, 2025 |
+| 81 | [feat: Implement full CRUD for MediaController](https://github.com/Mbazie-Kone/MusicLearningLibrary/pull/21) | [Mbazie-Kone/MusicLearningLibrary](https://github.com/Mbazie-Kone/MusicLearningLibrary) | Dec 08, 2025 |
+| 82 | [test: add unit tests for crypto_utils (Issue #993)](https://github.com/hiero-ledger/hiero-sdk-python/pull/1006) | [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python) | Dec 10, 2025 |
+| 83 | [feat(python): Add examples (deduplicate, delay) and tests (Issue #42)](https://github.com/wingfoil-io/wingfoil/pull/47) | [wingfoil-io/wingfoil](https://github.com/wingfoil-io/wingfoil) | Dec 11, 2025 |
+| 84 | [feat: Add client-side form validation (Issue #9)](https://github.com/AnshulSharma9340/Face-Based-Attendance-Attribute-System/pull/10) | [AnshulSharma9340/Face-Based-Attendance-Attribute-System](https://github.com/AnshulSharma9340/Face-Based-Attendance-Attribute-System) | Dec 08, 2025 |
+| 85 | [feat: Add Light/Dark Theme Toggle with localStorage Persistence](https://github.com/AnshulSharma9340/Face-Based-Attendance-Attribute-System/pull/6) | [AnshulSharma9340/Face-Based-Attendance-Attribute-System](https://github.com/AnshulSharma9340/Face-Based-Attendance-Attribute-System) | Dec 08, 2025 |
+| 86 | [Add AOS scroll animations to enhance user experience](https://github.com/opensource-society/notesvault/pull/1044) | [opensource-society/notesvault](https://github.com/opensource-society/notesvault) | Jan 07, 2026 |
+| 87 | [feat: Add ElectronHostHook sample application (#967)](https://github.com/ElectronNET/Electron.NET/pull/968) | [ElectronNET/Electron.NET](https://github.com/ElectronNET/Electron.NET) | Dec 09, 2025 |
+| 88 | [feat: Add WindowStream for time-based windowing (#43)](https://github.com/wingfoil-io/wingfoil/pull/45) | [wingfoil-io/wingfoil](https://github.com/wingfoil-io/wingfoil) | Dec 08, 2025 |
+| 89 | [feat: Add Acceptance Criteria to Good First Issue Template (#997)](https://github.com/hiero-ledger/hiero-sdk-python/pull/998) | [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python) | Dec 07, 2025 |
+| 90 | [feat: implement GET /api/media endpoint (#10)](https://github.com/Mbazie-Kone/MusicLearningLibrary/pull/12) | [Mbazie-Kone/MusicLearningLibrary](https://github.com/Mbazie-Kone/MusicLearningLibrary) | Dec 07, 2025 |
+| 91 | [fix: resolve mypy errors in scripts/ and examples/ (#83)](https://github.com/c-daly/sophia/pull/86) | [c-daly/sophia](https://github.com/c-daly/sophia) | Dec 07, 2025 |
+| 92 | [Fix typo: recieve -> receive in WebSocket handler](https://github.com/web-platform-tests/wpt/pull/55525) | [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt) | Oct 18, 2025 |
+| 93 | [Improve Contact Form Validation and Accessibility](https://github.com/InnoWebLabs/Vehigo/pull/852) | [InnoWebLabs/Vehigo](https://github.com/InnoWebLabs/Vehigo) | Oct 04, 2025 |
+| 94 | [Improve Contact Form Validation and Accessibility](https://github.com/InnoWebLabs/Vehigo/pull/851) | [InnoWebLabs/Vehigo](https://github.com/InnoWebLabs/Vehigo) | Oct 04, 2025 |
+| 95 | [Enhance User Experience with Comprehensive Accessibility Improvements](https://github.com/NiranjanKumar001/Profocto/pull/63) | [NiranjanKumar001/Profocto](https://github.com/NiranjanKumar001/Profocto) | Oct 03, 2025 |
+| 96 | [🔒♿🚀 Security, Accessibility & Performance Improvements](https://github.com/InnoWebLabs/Vehigo/pull/843) | [InnoWebLabs/Vehigo](https://github.com/InnoWebLabs/Vehigo) | Oct 02, 2025 |
+| 97 | [Feature/dark theme](https://github.com/sampadatiwari30/DeshDarshan/pull/471) | [sampadatiwari30/DeshDarshan](https://github.com/sampadatiwari30/DeshDarshan) | Aug 11, 2025 |
+| 98 | [Fix Telugu translation issues and cleanup](https://github.com/firstcontributions/first-contributions/pull/101191) | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | Jul 29, 2025 |
+| 99 | [Remove Slack links from Spanish translation and add code contribution…](https://github.com/firstcontributions/first-contributions/pull/101190) | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | Jul 29, 2025 |
 
 </details>
 <!-- END_PR_LIST -->
@@ -222,9 +224,9 @@
 
 <!-- START_HIGHLIGHTS -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Merged_PRs-97-6E40C9?style=for-the-badge&logo=git&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Unique_Repos-59+-32C850?style=for-the-badge&logo=github&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Organizations-35+-007ACC?style=for-the-badge&logo=enterprise&logoColor=white" />
+  <img src="https://img.shields.io/badge/Merged_PRs-99-6E40C9?style=for-the-badge&logo=git&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/Unique_Repos-60+-32C850?style=for-the-badge&logo=github&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/Organizations-36+-007ACC?style=for-the-badge&logo=enterprise&logoColor=white" />
 </div>
 <!-- END_HIGHLIGHTS -->
 
