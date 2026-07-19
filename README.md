@@ -90,7 +90,7 @@
 
 <!-- START_PR_LIST -->
 <details>
-<summary><b>📂 Click to expand / collapse the full list of 99 merged pull requests</b></summary>
+<summary><b>📂 Click to expand / collapse the full list of 97 merged pull requests</b></summary>
 <br/>
 
 | # | PR Title | Repository | Merged On |
@@ -175,25 +175,23 @@
 | 78 | [refactor(examples): modularize account_create_transaction_create_with_alias](https://github.com/hiero-ledger/hiero-sdk-python/pull/1030) | [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python) | Dec 11, 2025 |
 | 79 | [feat: add support for single audio files and multiple formats](https://github.com/gabrieltomasin/erastus-deprecated/pull/4) | [gabrieltomasin/erastus-deprecated](https://github.com/gabrieltomasin/erastus-deprecated) | Dec 13, 2025 |
 | 80 | [feat(react): add dark mode support to UI components (Fixes #18)](https://github.com/haroonwaves/blog-kit/pull/19) | [haroonwaves/blog-kit](https://github.com/haroonwaves/blog-kit) | Dec 10, 2025 |
-| 81 | [feat: Implement full CRUD for MediaController](https://github.com/Mbazie-Kone/MusicLearningLibrary/pull/21) | [Mbazie-Kone/MusicLearningLibrary](https://github.com/Mbazie-Kone/MusicLearningLibrary) | Dec 08, 2025 |
-| 82 | [test: add unit tests for crypto_utils (Issue #993)](https://github.com/hiero-ledger/hiero-sdk-python/pull/1006) | [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python) | Dec 10, 2025 |
-| 83 | [feat(python): Add examples (deduplicate, delay) and tests (Issue #42)](https://github.com/wingfoil-io/wingfoil/pull/47) | [wingfoil-io/wingfoil](https://github.com/wingfoil-io/wingfoil) | Dec 11, 2025 |
-| 84 | [feat: Add client-side form validation (Issue #9)](https://github.com/AnshulSharma9340/Face-Based-Attendance-Attribute-System/pull/10) | [AnshulSharma9340/Face-Based-Attendance-Attribute-System](https://github.com/AnshulSharma9340/Face-Based-Attendance-Attribute-System) | Dec 08, 2025 |
-| 85 | [feat: Add Light/Dark Theme Toggle with localStorage Persistence](https://github.com/AnshulSharma9340/Face-Based-Attendance-Attribute-System/pull/6) | [AnshulSharma9340/Face-Based-Attendance-Attribute-System](https://github.com/AnshulSharma9340/Face-Based-Attendance-Attribute-System) | Dec 08, 2025 |
-| 86 | [Add AOS scroll animations to enhance user experience](https://github.com/opensource-society/notesvault/pull/1044) | [opensource-society/notesvault](https://github.com/opensource-society/notesvault) | Jan 07, 2026 |
-| 87 | [feat: Add ElectronHostHook sample application (#967)](https://github.com/ElectronNET/Electron.NET/pull/968) | [ElectronNET/Electron.NET](https://github.com/ElectronNET/Electron.NET) | Dec 09, 2025 |
-| 88 | [feat: Add WindowStream for time-based windowing (#43)](https://github.com/wingfoil-io/wingfoil/pull/45) | [wingfoil-io/wingfoil](https://github.com/wingfoil-io/wingfoil) | Dec 08, 2025 |
-| 89 | [feat: Add Acceptance Criteria to Good First Issue Template (#997)](https://github.com/hiero-ledger/hiero-sdk-python/pull/998) | [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python) | Dec 07, 2025 |
-| 90 | [feat: implement GET /api/media endpoint (#10)](https://github.com/Mbazie-Kone/MusicLearningLibrary/pull/12) | [Mbazie-Kone/MusicLearningLibrary](https://github.com/Mbazie-Kone/MusicLearningLibrary) | Dec 07, 2025 |
-| 91 | [fix: resolve mypy errors in scripts/ and examples/ (#83)](https://github.com/c-daly/sophia/pull/86) | [c-daly/sophia](https://github.com/c-daly/sophia) | Dec 07, 2025 |
-| 92 | [Fix typo: recieve -> receive in WebSocket handler](https://github.com/web-platform-tests/wpt/pull/55525) | [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt) | Oct 18, 2025 |
-| 93 | [Improve Contact Form Validation and Accessibility](https://github.com/InnoWebLabs/Vehigo/pull/852) | [InnoWebLabs/Vehigo](https://github.com/InnoWebLabs/Vehigo) | Oct 04, 2025 |
-| 94 | [Improve Contact Form Validation and Accessibility](https://github.com/InnoWebLabs/Vehigo/pull/851) | [InnoWebLabs/Vehigo](https://github.com/InnoWebLabs/Vehigo) | Oct 04, 2025 |
-| 95 | [Enhance User Experience with Comprehensive Accessibility Improvements](https://github.com/NiranjanKumar001/Profocto/pull/63) | [NiranjanKumar001/Profocto](https://github.com/NiranjanKumar001/Profocto) | Oct 03, 2025 |
-| 96 | [🔒♿🚀 Security, Accessibility & Performance Improvements](https://github.com/InnoWebLabs/Vehigo/pull/843) | [InnoWebLabs/Vehigo](https://github.com/InnoWebLabs/Vehigo) | Oct 02, 2025 |
-| 97 | [Feature/dark theme](https://github.com/sampadatiwari30/DeshDarshan/pull/471) | [sampadatiwari30/DeshDarshan](https://github.com/sampadatiwari30/DeshDarshan) | Aug 11, 2025 |
-| 98 | [Fix Telugu translation issues and cleanup](https://github.com/firstcontributions/first-contributions/pull/101191) | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | Jul 29, 2025 |
-| 99 | [Remove Slack links from Spanish translation and add code contribution…](https://github.com/firstcontributions/first-contributions/pull/101190) | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | Jul 29, 2025 |
+| 81 | [test: add unit tests for crypto_utils (Issue #993)](https://github.com/hiero-ledger/hiero-sdk-python/pull/1006) | [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python) | Dec 10, 2025 |
+| 82 | [feat(python): Add examples (deduplicate, delay) and tests (Issue #42)](https://github.com/wingfoil-io/wingfoil/pull/47) | [wingfoil-io/wingfoil](https://github.com/wingfoil-io/wingfoil) | Dec 11, 2025 |
+| 83 | [feat: Add client-side form validation (Issue #9)](https://github.com/AnshulSharma9340/Face-Based-Attendance-Attribute-System/pull/10) | [AnshulSharma9340/Face-Based-Attendance-Attribute-System](https://github.com/AnshulSharma9340/Face-Based-Attendance-Attribute-System) | Dec 08, 2025 |
+| 84 | [feat: Add Light/Dark Theme Toggle with localStorage Persistence](https://github.com/AnshulSharma9340/Face-Based-Attendance-Attribute-System/pull/6) | [AnshulSharma9340/Face-Based-Attendance-Attribute-System](https://github.com/AnshulSharma9340/Face-Based-Attendance-Attribute-System) | Dec 08, 2025 |
+| 85 | [Add AOS scroll animations to enhance user experience](https://github.com/opensource-society/notesvault/pull/1044) | [opensource-society/notesvault](https://github.com/opensource-society/notesvault) | Jan 07, 2026 |
+| 86 | [feat: Add ElectronHostHook sample application (#967)](https://github.com/ElectronNET/Electron.NET/pull/968) | [ElectronNET/Electron.NET](https://github.com/ElectronNET/Electron.NET) | Dec 09, 2025 |
+| 87 | [feat: Add WindowStream for time-based windowing (#43)](https://github.com/wingfoil-io/wingfoil/pull/45) | [wingfoil-io/wingfoil](https://github.com/wingfoil-io/wingfoil) | Dec 08, 2025 |
+| 88 | [feat: Add Acceptance Criteria to Good First Issue Template (#997)](https://github.com/hiero-ledger/hiero-sdk-python/pull/998) | [hiero-ledger/hiero-sdk-python](https://github.com/hiero-ledger/hiero-sdk-python) | Dec 07, 2025 |
+| 89 | [fix: resolve mypy errors in scripts/ and examples/ (#83)](https://github.com/c-daly/sophia/pull/86) | [c-daly/sophia](https://github.com/c-daly/sophia) | Dec 07, 2025 |
+| 90 | [Fix typo: recieve -> receive in WebSocket handler](https://github.com/web-platform-tests/wpt/pull/55525) | [web-platform-tests/wpt](https://github.com/web-platform-tests/wpt) | Oct 18, 2025 |
+| 91 | [Improve Contact Form Validation and Accessibility](https://github.com/InnoWebLabs/Vehigo/pull/852) | [InnoWebLabs/Vehigo](https://github.com/InnoWebLabs/Vehigo) | Oct 04, 2025 |
+| 92 | [Improve Contact Form Validation and Accessibility](https://github.com/InnoWebLabs/Vehigo/pull/851) | [InnoWebLabs/Vehigo](https://github.com/InnoWebLabs/Vehigo) | Oct 04, 2025 |
+| 93 | [Enhance User Experience with Comprehensive Accessibility Improvements](https://github.com/NiranjanKumar001/Profocto/pull/63) | [NiranjanKumar001/Profocto](https://github.com/NiranjanKumar001/Profocto) | Oct 03, 2025 |
+| 94 | [🔒♿🚀 Security, Accessibility & Performance Improvements](https://github.com/InnoWebLabs/Vehigo/pull/843) | [InnoWebLabs/Vehigo](https://github.com/InnoWebLabs/Vehigo) | Oct 02, 2025 |
+| 95 | [Feature/dark theme](https://github.com/sampadatiwari30/DeshDarshan/pull/471) | [sampadatiwari30/DeshDarshan](https://github.com/sampadatiwari30/DeshDarshan) | Aug 11, 2025 |
+| 96 | [Fix Telugu translation issues and cleanup](https://github.com/firstcontributions/first-contributions/pull/101191) | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | Jul 29, 2025 |
+| 97 | [Remove Slack links from Spanish translation and add code contribution…](https://github.com/firstcontributions/first-contributions/pull/101190) | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | Jul 29, 2025 |
 
 </details>
 <!-- END_PR_LIST -->
@@ -224,9 +222,9 @@
 
 <!-- START_HIGHLIGHTS -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Merged_PRs-99-6E40C9?style=for-the-badge&logo=git&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Unique_Repos-60+-32C850?style=for-the-badge&logo=github&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Organizations-36+-007ACC?style=for-the-badge&logo=enterprise&logoColor=white" />
+  <img src="https://img.shields.io/badge/Merged_PRs-97-6E40C9?style=for-the-badge&logo=git&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/Unique_Repos-59+-32C850?style=for-the-badge&logo=github&logoColor=white" /> &nbsp;
+  <img src="https://img.shields.io/badge/Organizations-35+-007ACC?style=for-the-badge&logo=enterprise&logoColor=white" />
 </div>
 <!-- END_HIGHLIGHTS -->
 
