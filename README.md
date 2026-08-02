@@ -84,6 +84,51 @@
 
 ---
 
+## 🚀 Featured Projects
+
+> Production-grade, tested, CI-enabled — every repo runs end-to-end.
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b>🛡️ <a href="https://github.com/adityashirsatrao007/hackathon-project-3">SentinelX</a> — AI Threat Detection</b>
+      <br/><small>FastAPI · React · DistilBERT · Celery · Redis · PostgreSQL · Docker</small>
+      <br/>Real-time phishing/scam/social-engineering detection across email, SMS & voice. Weighted 4-signal risk engine. <b>1st Place</b>, Hack to Future 3.0 (600+ teams).
+    </td>
+    <td width="50%" valign="top">
+      <b>📈 <a href="https://github.com/adityashirsatrao007/order-matching-engine">Order Matching Engine</a> — Low-Latency FinTech</b>
+      <br/><small>C++17 · Price-Time Priority · GTC/IOC/FOK · FastAPI · WebSockets</small>
+      <br/>Dependency-free C++17 limit order book, benchmarked at <b>10.9M orders/sec</b>. Trade tape + live depth feed.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🔍 <a href="https://github.com/adityashirsatrao007/rag-knowledge-assistant">RAG Knowledge Assistant</a></b>
+      <br/><small>FastAPI · Chroma · sentence-transformers · BM25 · Docker</small>
+      <br/>LLM Q&A over 500+ documents with hybrid retrieval + citations. <b>92% retrieval hit-rate</b> on eval set. Runs offline, zero model downloads.
+    </td>
+    <td width="50%" valign="top">
+      <b>📊 <a href="https://github.com/adityashirsatrao007/nyc-taxi-data-pipeline">NYC Taxi Data Pipeline</a></b>
+      <br/><small>Apache Airflow · dbt · BigQuery · DuckDB</small>
+      <br/>End-to-end batch ETL processing <b>2.96M trips/day</b>, 15+ automated data-quality tests, runs fully locally.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🚀 <a href="https://github.com/adityashirsatrao007/real-time-clickstream">Real-Time Clickstream</a></b>
+      <br/><small>Apache Kafka · Spark Structured Streaming · Docker</small>
+      <br/>10K events/sec, <b>&lt;500ms p99 latency</b>, sessionization + anomaly detection.
+    </td>
+    <td width="50%" valign="top">
+      <b>⚖️ <a href="https://github.com/adityashirsatrao007/hackathon-project-2">Nyaya AI</a> — Legal Document Processing</b>
+      <br/><small>FastAPI · React · EasyOCR · PostgreSQL</small>
+      <br/>FIR digitization with OCR (English + Hindi) + IPC section detection. <b>1st Runner-Up</b>, National Hackathon (800+ teams).
+    </td>
+  </tr>
+</table>
+
+---
+
 ## ✅ Merged Pull Requests — All Time (71 PRs)
 
 > Complete verified history via GitHub Search API · From **Jul 2025 → May 2026** · Across **40+ repositories**
