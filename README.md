@@ -91,7 +91,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <b>🛡️ <a href="https://github.com/adityashirsatrao007/hackathon-project-3">SentinelX</a> — AI Threat Detection</b>
+      <b>🛡️ <a href="https://github.com/adityashirsatrao007/ai-threat-detection">SentinelX</a> — AI Threat Detection</b>
       <br/><small>FastAPI · React · DistilBERT · Celery · Redis · PostgreSQL · Docker</small>
       <br/>Real-time phishing/scam/social-engineering detection across email, SMS & voice. Weighted 4-signal risk engine. <b>1st Place</b>, Hack to Future 3.0 (600+ teams).
     </td>
@@ -120,12 +120,21 @@
       <br/>10K events/sec, <b>&lt;500ms p99 latency</b>, sessionization + anomaly detection.
     </td>
     <td width="50%" valign="top">
-      <b>⚖️ <a href="https://github.com/adityashirsatrao007/hackathon-project-2">Nyaya AI</a> — Legal Document Processing</b>
+      <b>⚖️ <a href="https://github.com/adityashirsatrao007/fir-digitization-legal-ai">Nyaya AI</a> — Legal Document Processing</b>
       <br/><small>FastAPI · React · EasyOCR · PostgreSQL</small>
       <br/>FIR digitization with OCR (English + Hindi) + IPC section detection. <b>1st Runner-Up</b>, National Hackathon (800+ teams).
     </td>
   </tr>
 </table>
+
+### 🖥️ Live Demos (click to try)
+
+| Demo | URL | What it shows |
+|------|-----|---------------|
+| SentinelX UI | [frontend-fa9srqvov-adityas-projects-7c01ad4a.vercel.app](https://frontend-fa9srqvov-adityas-projects-7c01ad4a.vercel.app) | Threat-intel platform frontend |
+| RAG Knowledge Assistant | [ssl-rob-elected-you.trycloudflare.com](https://ssl-rob-elected-you.trycloudflare.com) | FastAPI Q&A over docs with citations (`/docs`) |
+| Order Matching Engine | [hobby-held-addition-plot.trycloudflare.com](https://hobby-held-addition-plot.trycloudflare.com) | Live REST matching engine — submit orders, watch fills |
+| Concrete Strength Predictor | [adityashirsatrao007.github.io/concrete-strength-predictor-demo](https://adityashirsatrao007.github.io/concrete-strength-predictor-demo) | In-browser ML demo (no server) |
 
 ---
 
