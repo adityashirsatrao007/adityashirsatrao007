@@ -102,6 +102,13 @@ def main():
         f"<!-- START_HIGHLIGHTS -->\n{highlights_content}\n<!-- END_HIGHLIGHTS -->", 
         new_content
     )
+
+    # Fix header count (was hardcoded 71, now dynamic)
+    header_pattern = re.compile(r"## ✅ Merged Pull Requests — All Time \(\d+ PRs\)")
+    new_content = header_pattern.sub(
+        f"## ✅ Merged Pull Requests — All Time ({total_count} PRs)", 
+        new_content
+    )
     
     # Write back to README.md
     with open(readme_path, "w", encoding="utf-8") as f:

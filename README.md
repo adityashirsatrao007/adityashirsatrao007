@@ -35,9 +35,9 @@
     <td width="45%" valign="top">
       <h3>📊 GitHub Stats</h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=adityashirsatrao007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityashirsatrao007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="GitHub Stats"/>
         <br/><br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityashirsatrao007&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats"/>
+        <img src="https://streak-stats.demolab.com/?user=adityashirsatrao007&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats"/>
       </p>
     </td>
   </tr>
@@ -45,11 +45,8 @@
 
 <table border="0" width="100%">
   <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityashirsatrao007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="95%" alt="languages"/>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=adityashirsatrao007&theme=tokyonight&hide_border=true&layout=compact&v=1" width="95%" alt="wakatime"/>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adityashirsatrao007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" alt="Top Languages"/>
     </td>
   </tr>
 </table>
@@ -132,13 +129,13 @@
 | Demo | URL | What it shows |
 |------|-----|---------------|
 | SentinelX UI | [frontend-fa9srqvov-adityas-projects-7c01ad4a.vercel.app](https://frontend-fa9srqvov-adityas-projects-7c01ad4a.vercel.app) | Threat-intel platform frontend |
-| RAG Knowledge Assistant | [ssl-rob-elected-you.trycloudflare.com](https://ssl-rob-elected-you.trycloudflare.com) | FastAPI Q&A over docs with citations (`/docs`) |
-| Order Matching Engine | [hobby-held-addition-plot.trycloudflare.com](https://hobby-held-addition-plot.trycloudflare.com) | Live REST matching engine — submit orders, watch fills |
 | Concrete Strength Predictor | [adityashirsatrao007.github.io/concrete-strength-predictor-demo](https://adityashirsatrao007.github.io/concrete-strength-predictor-demo) | In-browser ML demo (no server) |
+| RAG Knowledge Assistant | `offline` — ephemeral `trycloudflare` tunnel expired | FastAPI Q&A over docs with citations (`/docs`) — redeploy pending |
+| Order Matching Engine | `offline` — ephemeral `trycloudflare` tunnel expired | Live REST matching engine — redeploy to Vercel/Render pending |
 
 ---
 
-## ✅ Merged Pull Requests — All Time (71 PRs)
+## ✅ Merged Pull Requests — All Time (96 PRs)
 
 > Complete verified history via GitHub Search API · From **Jul 2025 → May 2026** · Across **40+ repositories**
 
