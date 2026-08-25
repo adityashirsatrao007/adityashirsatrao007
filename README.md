@@ -90,6 +90,16 @@
 | <b>🌍 Open Source</b> | 105+ merged PRs · 58+ repos · 35+ orgs · 40+ repos contributed |
 | <b>🎯 Core Stack</b> | Python, C++, JS/TS, Java · React/Next.js · Node/Express · Mongo/Postgres · Docker, Kafka, Spark, Airflow · TensorFlow/PyTorch |
 
+## 📜 Publications & Certifications
+
+| Type | Details |
+|------|---------|
+| <b>📄 IEEE ICCTWC 2026</b> | **BERT Multilingual Sentiment Analysis** — Under review / Accepted (add DOI/link when live) · Co-author · EN + Hindi NLP |
+| <b>🏅 Hackathons</b> | SentinelX **1st / 600+** Hack from the Future 3.0 · Nyaya AI **1st Runner-Up / 800+** National Hackathon |
+| <b>🎖️ Open Source</b> | 3× Pair Extraordinaire, Pull Shark, Quickdraw, YOLO · GitHub Developer Program · Pro |
+
+> 📌 *Add cloud certs here when earned (AWS/GCP/Azure) — recruiter scan bonus. Reply with cert names to auto-add.*
+
 ## 🧑‍💼 Experience & Education
 
 | Role | Org / Institute | Period | Highlights |
@@ -152,6 +162,17 @@
 | Concrete Strength Predictor | [adityashirsatrao007.github.io/concrete-strength-predictor-demo](https://adityashirsatrao007.github.io/concrete-strength-predictor-demo) | In-browser ML demo (no server) |
 | RAG Knowledge Assistant | `offline` — ephemeral `trycloudflare` tunnel expired | FastAPI Q&A over docs with citations (`/docs`) — redeploy pending |
 | Order Matching Engine | `offline` — ephemeral `trycloudflare` tunnel expired | Live REST matching engine — redeploy to Vercel/Render pending |
+
+---
+
+## 🎯 Currently Building & Learning
+
+- 🔐 **SOC Automation** — SOAR playbooks, Sentinel Threat Intel pipelines (your current work)
+- 🤖 **RAG at scale** — hybrid BM25 + dense, offline eval 92%
+- ⚡ **Low-latency C++** — order book optimizations, WebSocket depth feeds
+- 🧠 **Next:** GenAI security, real-time streaming at 10K evt/s
+
+> Open to **collaboration** on Data/AI, FinTech, Security tooling — DM via LinkedIn/Email.
 
 ---
 
