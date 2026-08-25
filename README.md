@@ -95,7 +95,7 @@
 | Role | Org / Institute | Period | Highlights |
 |------|-----------------|--------|------------|
 | <b>Full-Stack + ML + Security — Freelance</b> | <i>Data/AI, Web, Design, Writing, Marketing</i> | 2023 → Now | SOC dashboards, SOAR pipelines, AI threat intel; 40+ open-source contributions |
-| <b>B.Tech Student</b> | [N K Orchid College of Engineering & Technology, Solapur](https://orchidengg.ac.in/) | — | Focus: Full-stack, ML/Cybersecurity, automation CLI tools |
+| <b>B.Tech AI & DS — Final Year</b> | [N K Orchid College of Engineering & Technology, Solapur](https://orchidengg.ac.in/) | 2023 → 2027 | AI/DS · Full-stack, ML/Cybersecurity, automation CLI tools |
 
 > 📄 **Resume:** Add direct PDF link here (e.g., `https://…/Aditya_Shirsatrao_Resume.pdf`) — currently points to `bento.me` hub. Pin resume in repo `About` → `Website`.
 
