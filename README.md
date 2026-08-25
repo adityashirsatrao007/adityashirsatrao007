@@ -43,7 +43,7 @@
         <a href="https://www.hackerrank.com/adityashirsatrao007"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/📍_Solapur,_India-007ACC?style=flat" />
+        <img src="https://img.shields.io/badge/Solapur,_India-007ACC?style=flat&logo=googlemaps&logoColor=white" />
         <img src="https://img.shields.io/badge/Available_Now-00C853?style=flat" />
       </p>
       <p><i>Response < 24h · Freelance: Data/AI, Web, Design, Writing</i></p>
