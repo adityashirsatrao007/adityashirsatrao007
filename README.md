@@ -36,8 +36,6 @@
       <h3>📊 GitHub Stats</h3>
       <p align="center">
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityashirsatrao007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="GitHub Stats"/>
-        <br/><br/>
-        <img src="https://streak-stats.demolab.com/?user=adityashirsatrao007&theme=tokyonight&hide_border=true" width="100%" alt="Streak Stats"/>
       </p>
     </td>
   </tr>
