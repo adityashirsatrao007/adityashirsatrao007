@@ -313,6 +313,12 @@
   <a href="https://github.com/adityashirsatrao007"><img src="https://img.shields.io/badge/GitHub-72%20Followers-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
+<p align="center">
+  <a href="https://leetcode.com/adityashirsatrao007">
+    <img src="https://leetcard.jacoblin.cool/adityashirsatrao007?theme=tokyonight&font=Baloo&ext=heatmap" alt="LeetCode Stats" width="70%" />
+  </a>
+</p>
+
 ## 🎵 My Coding Beats
 
 <p align="center">
