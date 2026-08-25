@@ -84,26 +84,26 @@
 
 | | |
 |---|---|
-| <b>🏆 Wins</b> | SentinelX <b>1st Place</b> Hack from the Future 3.0 (600+ teams) · Nyaya AI <b>1st Runner-Up</b> National Hackathon (800+ teams) |
-| <b>📄 Publication</b> | BERT Multilingual Sentiment Analysis — <i>IEEE ICCTWC 2026</i> |
-| <b>⚡ Performance</b> | Order Matching Engine <b>10.9M orders/sec</b> · RAG <b>92% hit-rate</b> · Clickstream <b>10K evt/s, &lt;500ms p99</b> · Taxi Pipeline <b>2.96M trips/day</b> |
-| <b>🌍 Open Source</b> | 105+ merged PRs · 58+ repos · 35+ orgs · 40+ repos contributed |
+| <b>🏆 Wins</b> | <a href="https://github.com/adityashirsatrao007/ai-threat-detection">SentinelX</a> <b>1st Place</b> Hack from the Future 3.0 (600+ teams) · <a href="https://github.com/adityashirsatrao007/fir-digitization-legal-ai">Nyaya AI</a> <b>1st Runner-Up</b> National Hackathon (800+ teams) |
+| <b>📄 Publication</b> | <a href="https://github.com/adityashirsatrao007">BERT Multilingual Sentiment Analysis</a> — <i>IEEE ICCTWC 2026</i> |
+| <b>⚡ Performance</b> | <a href="https://github.com/adityashirsatrao007/order-matching-engine">Order Matching Engine <b>10.9M orders/sec</b></a> · <a href="https://github.com/adityashirsatrao007/rag-knowledge-assistant">RAG <b>92% hit-rate</b></a> · <a href="https://github.com/adityashirsatrao007/real-time-clickstream">Clickstream <b>10K evt/s, &lt;500ms p99</b></a> · <a href="https://github.com/adityashirsatrao007/nyc-taxi-data-pipeline">Taxi Pipeline <b>2.96M trips/day</b></a> |
+| <b>🌍 Open Source</b> | <a href="https://github.com/search?q=author%3Aadityashirsatrao007+type%3Apr+is%3Amerged">105+ merged PRs</a> · 58+ repos · 35+ orgs · 40+ repos contributed |
 | <b>🎯 Core Stack</b> | Python, C++, JS/TS, Java · React/Next.js · Node/Express · Mongo/Postgres · Docker, Kafka, Spark, Airflow · TensorFlow/PyTorch |
 
 ## 📜 Publications & Certifications
 
 | Type | Details |
 |------|---------|
-| <b>📄 IEEE ICCTWC 2026</b> | **BERT Multilingual Sentiment Analysis** · Co-author · EN + Hindi NLP |
-| <b>🏅 Hackathons</b> | SentinelX **1st / 600+** Hack from the Future 3.0 · Nyaya AI **1st Runner-Up / 800+** National Hackathon |
-| <b>🎖️ Open Source</b> | 3× Pair Extraordinaire, Pull Shark, Quickdraw, YOLO · GitHub Developer Program · Pro |
+| <b>📄 IEEE ICCTWC 2026</b> | <a href="https://github.com/adityashirsatrao007"><b>BERT Multilingual Sentiment Analysis</b></a> · Co-author · EN + Hindi NLP |
+| <b>🏅 Hackathons</b> | <a href="https://github.com/adityashirsatrao007/ai-threat-detection">SentinelX</a> **1st / 600+** Hack from the Future 3.0 · <a href="https://github.com/adityashirsatrao007/fir-digitization-legal-ai">Nyaya AI</a> **1st Runner-Up / 800+** National Hackathon |
+| <b>🎖️ Open Source</b> | <a href="https://github.com/adityashirsatrao007">3× Pair Extraordinaire, Pull Shark, Quickdraw, YOLO</a> · GitHub Developer Program · Pro |
 
 
 ## 🧑‍💼 Experience & Education
 
 | Role | Org / Institute | Period | Highlights |
 |------|-----------------|--------|------------|
-| <b>Full-Stack + ML + Security — Freelance</b> | <i>Data/AI, Web, Design, Writing, Marketing</i> | 2023 → Now | SOC dashboards, SOAR pipelines, AI threat intel; 40+ open-source contributions |
+| <b><a href="https://bento.me/adityashirsatrao007">Full-Stack + ML + Security — Freelance</a></b> | <i>Data/AI, Web, Design, Writing, Marketing</i> | 2023 → Now | SOC dashboards, SOAR pipelines, AI threat intel; <a href="https://github.com/search?q=author%3Aadityashirsatrao007+type%3Apr+is%3Amerged">40+ open-source contributions</a> |
 | <b>B.Tech AI & DS — Final Year</b> | [N K Orchid College of Engineering & Technology, Solapur](https://orchidengg.ac.in/) | 2023 → 2027 | AI/DS · Full-stack, ML/Cybersecurity, automation CLI tools |
 
 
@@ -165,10 +165,10 @@
 
 ## 🎯 Currently Building & Learning
 
-- 🔐 **SOC Automation** — SOAR playbooks, Sentinel Threat Intel pipelines (your current work)
-- 🤖 **RAG at scale** — hybrid BM25 + dense, offline eval 92%
-- ⚡ **Low-latency C++** — order book optimizations, WebSocket depth feeds
-- 🧠 **Next:** GenAI security, real-time streaming at 10K evt/s
+- 🔐 **SOC Automation** — <a href="https://github.com/adityashirsatrao007/ai-threat-detection">SOAR playbooks, Sentinel Threat Intel pipelines</a> (your current work)
+- 🤖 **RAG at scale** — <a href="https://github.com/adityashirsatrao007/rag-knowledge-assistant">hybrid BM25 + dense, offline eval 92%</a>
+- ⚡ **Low-latency C++** — <a href="https://github.com/adityashirsatrao007/order-matching-engine">order book optimizations, WebSocket depth feeds</a>
+- 🧠 **Next:** GenAI security, <a href="https://github.com/adityashirsatrao007/real-time-clickstream">real-time streaming at 10K evt/s</a>
 
 > Open to **collaboration** on Data/AI, FinTech, Security tooling — DM via LinkedIn/Email.
 
