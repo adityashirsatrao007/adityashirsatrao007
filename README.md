@@ -94,11 +94,10 @@
 
 | Type | Details |
 |------|---------|
-| <b>📄 IEEE ICCTWC 2026</b> | **BERT Multilingual Sentiment Analysis** — Under review / Accepted (add DOI/link when live) · Co-author · EN + Hindi NLP |
+| <b>📄 IEEE ICCTWC 2026</b> | **BERT Multilingual Sentiment Analysis** · Co-author · EN + Hindi NLP |
 | <b>🏅 Hackathons</b> | SentinelX **1st / 600+** Hack from the Future 3.0 · Nyaya AI **1st Runner-Up / 800+** National Hackathon |
 | <b>🎖️ Open Source</b> | 3× Pair Extraordinaire, Pull Shark, Quickdraw, YOLO · GitHub Developer Program · Pro |
 
-> 📌 *Add cloud certs here when earned (AWS/GCP/Azure) — recruiter scan bonus. Reply with cert names to auto-add.*
 
 ## 🧑‍💼 Experience & Education
 
@@ -107,7 +106,6 @@
 | <b>Full-Stack + ML + Security — Freelance</b> | <i>Data/AI, Web, Design, Writing, Marketing</i> | 2023 → Now | SOC dashboards, SOAR pipelines, AI threat intel; 40+ open-source contributions |
 | <b>B.Tech AI & DS — Final Year</b> | [N K Orchid College of Engineering & Technology, Solapur](https://orchidengg.ac.in/) | 2023 → 2027 | AI/DS · Full-stack, ML/Cybersecurity, automation CLI tools |
 
-> 📄 **Resume:** Add direct PDF link here (e.g., `https://…/Aditya_Shirsatrao_Resume.pdf`) — currently points to `bento.me` hub. Pin resume in repo `About` → `Website`.
 
 ---
 
