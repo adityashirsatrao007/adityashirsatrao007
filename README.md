@@ -22,36 +22,37 @@
     <td width="55%" valign="top">
       <h3>🚀 About Me</h3>
       <p>
-        I'm <b>Aditya Shirsatrao</b>, a passionate Full Stack Developer, Machine Learning Enthusiast, and Cybersecurity researcher from India 🇮🇳.
+        I'm <b>Aditya Shirsatrao</b>, a passionate Full Stack Developer, Machine Learning Enthusiast, and Cybersecurity researcher from Solapur, India 🇮🇳.
       </p>
       <ul>
-        <li>💻 <b>Focus</b>: Full Stack Development (React, Node, Express, Mongo), AI/ML, and Security.</li>
-        <li>🔒 <b>Current Work</b>: SOC Dashboards, SOAR pipelines, and Sentinel Threat Intel.</li>
-        <li>🧠 <b>AI/ML Projects</b>: BERT-based Multilingual Sentiment Analysis.</li>
-        <li>🌍 <b>Open Source</b>: Active contributor to 40+ global open source repositories.</li>
-        <li>⚡ <b>Fun Fact</b>: I like building automation workflows and CLI tools.</li>
+        <li>💻 <b>Focus</b>: Full Stack (React, Next.js, Node, Express, Mongo/Postgres), AI/ML (PyTorch, TensorFlow, BERT) & Cybersecurity</li>
+        <li>🔒 <b>Current Work</b>: SOC Dashboards, SOAR pipelines, SentinelX Threat Intel — phishing/scam detection at scale</li>
+        <li>🧠 <b>Research</b>: Multilingual BERT Sentiment Analysis — <i>IEEE ICCTWC 2026</i> publication</li>
+        <li>🌍 <b>Open Source</b>: 105+ PRs merged, 40+ repos, 32+ orgs — 3× Pair Extraordinaire, Pull Shark, Quickdraw</li>
+        <li>⚡ <b>Strengths</b>: Automation workflows, CLI tools, data pipelines (Kafka/Spark/Airflow), FinTech low-latency systems</li>
       </ul>
     </td>
     <td width="45%" valign="top">
-      <h3>📊 GitHub Stats</h3>
-      <p align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityashirsatrao007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="GitHub Stats"/>
+      <h3>📬 Open to Opportunities</h3>
+      <p><b>Seeking:</b> Full-Stack / ML / Security roles — Intern, Freelance, Full-time</p>
+      <p>
+        <a href="https://bento.me/adityashirsatrao007"><img src="https://img.shields.io/badge/Portfolio-bento.me-6E40C9?style=for-the-badge&logo=safari&logoColor=white" /></a><br/>
+        <a href="https://www.linkedin.com/in/adityashirsatrao/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="mailto:adityashirsatrao007@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a><br/>
+        <a href="https://leetcode.com/adityashirsatrao007"><img src="https://img.shields.io/badge/LeetCode-adityashirsatrao007-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+        <a href="https://www.hackerrank.com/adityashirsatrao007"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
       </p>
+      <p>
+        <img src="https://img.shields.io/badge/📍_Solapur,_India-007ACC?style=flat" />
+        <img src="https://img.shields.io/badge/Available_Now-00C853?style=flat" />
+      </p>
+      <p><i>Response < 24h · Freelance: Data/AI, Web, Design, Writing</i></p>
     </td>
   </tr>
 </table>
 
-<table border="0" width="100%">
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adityashirsatrao007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Tech Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Tech Quote" />
 </p>
 
 ---
@@ -76,6 +77,27 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 📈 At a Glance — Recruiter Quick Facts
+
+| | |
+|---|---|
+| <b>🏆 Wins</b> | SentinelX <b>1st Place</b> Hack from the Future 3.0 (600+ teams) · Nyaya AI <b>1st Runner-Up</b> National Hackathon (800+ teams) |
+| <b>📄 Publication</b> | BERT Multilingual Sentiment Analysis — <i>IEEE ICCTWC 2026</i> |
+| <b>⚡ Performance</b> | Order Matching Engine <b>10.9M orders/sec</b> · RAG <b>92% hit-rate</b> · Clickstream <b>10K evt/s, &lt;500ms p99</b> · Taxi Pipeline <b>2.96M trips/day</b> |
+| <b>🌍 Open Source</b> | 105+ merged PRs · 58+ repos · 35+ orgs · 40+ repos contributed |
+| <b>🎯 Core Stack</b> | Python, C++, JS/TS, Java · React/Next.js · Node/Express · Mongo/Postgres · Docker, Kafka, Spark, Airflow · TensorFlow/PyTorch |
+
+## 🧑‍💼 Experience & Education
+
+| Role | Org / Institute | Period | Highlights |
+|------|-----------------|--------|------------|
+| <b>Full-Stack + ML + Security — Freelance</b> | <i>Data/AI, Web, Design, Writing, Marketing</i> | 2023 → Now | SOC dashboards, SOAR pipelines, AI threat intel; 40+ open-source contributions |
+| <b>B.Tech Student</b> | SF College (Solapur) | — | Focus: Full-stack, ML/Cybersecurity, automation CLI tools |
+
+> 📄 **Resume:** Add direct PDF link here (e.g., `https://…/Aditya_Shirsatrao_Resume.pdf`) — currently points to `bento.me` hub. Pin resume in repo `About` → `Website`.
 
 ---
 
@@ -275,6 +297,21 @@
   <img src="https://img.shields.io/badge/Organizations-35+-007ACC?style=for-the-badge&logo=enterprise&logoColor=white" />
 </div>
 <!-- END_HIGHLIGHTS -->
+
+## 🏅 Achievements & Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hack%20from%20the%20Future%203.0-1st%20Place%20%2F600%2B-FF6B00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/National%20Hackathon-1st%20Runner--Up%20%2F800%2B-6E40C9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IEEE%20ICCTWC%202026-Publication-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-105%2B%20PRs%20Merged-32C850?style=for-the-badge" />
+</p>
+
+<div align="center">
+  <a href="https://leetcode.com/adityashirsatrao007"><img src="https://img.shields.io/badge/LeetCode-Stats-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.hackerrank.com/adityashirsatrao007"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://github.com/adityashirsatrao007"><img src="https://img.shields.io/badge/GitHub-72%20Followers-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
 
 ## 🎵 My Coding Beats
 
