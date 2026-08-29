@@ -1,0 +1,11 @@
+# Dependency dirs
+node_modules/
+# Logs
+*.log
+# Packaging
+*.tgz
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
