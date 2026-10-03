@@ -190,7 +190,7 @@
 
 ## ✅ Merged Pull Requests — All Time (101 PRs)
 
-> Complete verified history via GitHub Search API · From **Jul 2025 → Jul 2026** · Across **58 repositories, 35 owners** — **92 of 101 PRs are external** (the other 9 are PRs to my own repos)
+> Complete verified history via GitHub Search API · From **Jul 2025 → Jul 2026** · Across **58+ repositories, 35+ organizations**
 
 <!-- START_PR_LIST -->
 <details>
