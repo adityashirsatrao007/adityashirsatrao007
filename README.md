@@ -190,7 +190,7 @@
 
 ## ✅ Merged Pull Requests — All Time (101 PRs)
 
-> Complete verified history via GitHub Search API · From **Jul 2025 → Jul 2026** · Across **58+ repositories, 35+ organizations**
+> Complete verified history via GitHub Search API · From **Jul 2025 → Jul 2026** · Across **58 repositories, 35 owners** — **92 of 101 PRs are external** (the other 9 are PRs to my own repos)
 
 <!-- START_PR_LIST -->
 <details>
@@ -332,7 +332,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Merged_PRs-101-6E40C9?style=for-the-badge&logo=git&logoColor=white" /> &nbsp;
   <img src="https://img.shields.io/badge/Unique_Repos-58+-32C850?style=for-the-badge&logo=github&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Organizations-35+-007ACC?style=for-the-badge&logo=enterprise&logoColor=white" />
+  <img src="https://img.shields.io/badge/Owners-35+-007ACC?style=for-the-badge&logo=enterprise&logoColor=white" />
 </div>
 <!-- END_HIGHLIGHTS -->
 

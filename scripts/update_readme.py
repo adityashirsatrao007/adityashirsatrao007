@@ -7,6 +7,7 @@ import time
 from datetime import datetime
 
 USERNAME = "adityashirsatrao007"
+OWN_ACCOUNTS = {"adityashirsatrao007", "afiestic"}
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
 
 def fetch_all_merged_prs(per_page=100):
@@ -52,6 +53,9 @@ def main():
 
     unique_repos = set()
     unique_orgs = set()
+    external_repos = set()
+    external_orgs = set()
+    external_count = 0
     dates = []
 
     pr_rows = []
@@ -64,6 +68,10 @@ def main():
         unique_repos.add(repo_name)
         org_name = repo_name.split("/")[0]
         unique_orgs.add(org_name)
+        if org_name not in OWN_ACCOUNTS:
+            external_repos.add(repo_name)
+            external_orgs.add(org_name)
+            external_count += 1
         closed = item.get("closed_at")
         if closed:
             dates.append(closed)
@@ -72,7 +80,7 @@ def main():
             f"| {index} | [{title}]({html_url}) | [{repo_name}](https://github.com/{repo_name}) | {merged_on} |"
         )
 
-    print(f"Found {total_count} merged PRs across {len(unique_repos)} repos and {len(unique_orgs)} orgs.")
+    print(f"Found {total_count} merged PRs across {len(unique_repos)} repos / {len(unique_orgs)} owners; {external_count} external across {len(external_orgs)} external owners.")
 
     pr_list_content = f"""<details>
 <summary><b>📂 Click to expand / collapse the full list of {total_count} merged pull requests</b></summary>
@@ -85,7 +93,7 @@ def main():
     highlights_content = f"""<div align="center">
   <img src="https://img.shields.io/badge/Merged_PRs-{total_count}-6E40C9?style=for-the-badge&logo=git&logoColor=white" /> &nbsp;
   <img src="https://img.shields.io/badge/Unique_Repos-{len(unique_repos)}+-32C850?style=for-the-badge&logo=github&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/Organizations-{len(unique_orgs)}+-007ACC?style=for-the-badge&logo=enterprise&logoColor=white" />
+  <img src="https://img.shields.io/badge/Owners-{len(unique_orgs)}+-007ACC?style=for-the-badge&logo=enterprise&logoColor=white" />
 </div>"""
 
     readme_path = "README.md"
@@ -114,7 +122,7 @@ def main():
     else:
         range_str = "—"
     meta_pattern = re.compile(r"> Complete verified history via GitHub Search API.*Across.*repositories.*")
-    meta_replacement = f"> Complete verified history via GitHub Search API · From **{range_str}** · Across **{len(unique_repos)}+ repositories, {len(unique_orgs)}+ organizations**"
+    meta_replacement = f"> Complete verified history via GitHub Search API · From **{range_str}** · Across **{len(unique_repos)} repositories, {len(unique_orgs)} owners** — **{external_count} of {total_count} PRs are external** (the other {total_count - external_count} are PRs to my own repos)"
     new_content = meta_pattern.sub(meta_replacement, new_content)
 
     with open(readme_path, "w", encoding="utf-8") as f:
