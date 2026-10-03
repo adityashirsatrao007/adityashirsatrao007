@@ -86,7 +86,7 @@
 |---|---|
 | <b>🏆 Wins</b> | <a href="https://github.com/adityashirsatrao007/ai-threat-detection">SentinelX</a> <b>1st Place</b> Hack to Future 3.0 (600+ teams) · <a href="https://github.com/adityashirsatrao007/tracelify-sdk">Tracelify SDK</a> <b>1st Runner-Up</b> Orchathon 2K26 (800+ teams) |
 | <b>📄 Publication</b> | <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bgJ-5ZsAAAAJ&citation_for_view=bgJ-5ZsAAAAJ:u5HHmVD_uO8C">BERT Multilingual Sentiment Analysis</a> — <i>IEEE ICCTWC 2026</i> |
-| <b>⚡ Performance</b> | <a href="https://github.com/adityashirsatrao007/order-matching-engine">Order Matching Engine <b>10.9M orders/sec</b></a> · <a href="https://github.com/adityashirsatrao007/indic-rag-evals">RAG <b>eval harness</b> (Recall@k / MRR)</a> · <a href="https://github.com/adityashirsatrao007/real-time-clickstream">Clickstream <b>10K evt/s, &lt;500ms p99</b></a> · <a href="https://github.com/adityashirsatrao007/nyc-taxi-data-pipeline">Taxi Pipeline <b>2.96M trips/day</b></a> |
+| <b>⚡ Performance</b> | <a href="https://github.com/adityashirsatrao007/order-matching-engine">Order Matching Engine <b>1.3 µs/order</b> (~800K/sec, single-threaded)</a> · <a href="https://github.com/adityashirsatrao007/indic-rag-evals">RAG <b>eval harness</b> (Recall@k / MRR)</a> · <a href="https://github.com/adityashirsatrao007/sarvam-asr-benchmark">Indian ASR <b>WER 0.090</b> (16 real clips)</a> · <a href="https://github.com/adityashirsatrao007/real-time-clickstream">Clickstream — throughput &amp; p99 via --benchmark</a> |
 | <b>🌍 Open Source</b> | <a href="https://github.com/search?q=author%3Aadityashirsatrao007+type%3Apr+is%3Amerged">101 merged PRs (92 external)</a> · 58 repos · 35 owners · 56 external repos |
 | <b>🧪 Evaluation Harnesses</b> | <a href="https://github.com/adityashirsatrao007/voice-agent-regression">voice-agent-regression</a> (prompt CI gate) · <a href="https://github.com/adityashirsatrao007/sarvam-asr-benchmark">sarvam-asr-benchmark</a> (live WER vs Sarvam API) · <a href="https://github.com/adityashirsatrao007/indic-rag-evals">indic-rag-evals</a> · <a href="https://github.com/adityashirsatrao007/sarvam-vision-doc-extract">sarvam-vision-doc-extract</a> · 497 tests |
 | <b>🎯 Core Stack</b> | Python, C++, JS/TS, Java · React/Next.js · Node/Express · Mongo/Postgres · Docker, Kafka, Spark, Airflow · TensorFlow/PyTorch |
@@ -124,7 +124,7 @@
     <td width="50%" valign="top">
       <b>📈 <a href="https://github.com/adityashirsatrao007/order-matching-engine">Order Matching Engine</a> — Low-Latency FinTech</b>
       <br/><small>C++17 · Price-Time Priority · GTC/IOC/FOK · FastAPI · WebSockets</small>
-      <br/>Dependency-free C++17 limit order book, benchmarked at <b>10.9M orders/sec</b>. Trade tape + live depth feed.
+      <br/>Dependency-free C++17 limit order book, benchmarked at <b>~1.3 µs/order (~800K orders/sec)</b> single-threaded — method in bench/BENCHMARK.md. Trade tape + live depth feed.
     </td>
   </tr>
   <tr>
@@ -136,14 +136,14 @@
     <td width="50%" valign="top">
       <b>📊 <a href="https://github.com/adityashirsatrao007/nyc-taxi-data-pipeline">NYC Taxi Data Pipeline</a></b>
       <br/><small>Apache Airflow · dbt · BigQuery · DuckDB</small>
-      <br/>End-to-end batch ETL processing <b>2.96M trips/day</b>, 15+ automated data-quality tests, runs fully locally.
+      <br/>End-to-end daily batch ETL with <b>9 dbt data-quality tests</b> (not-null, uniqueness, ranges), runs fully locally.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <b>🚀 <a href="https://github.com/adityashirsatrao007/real-time-clickstream">Real-Time Clickstream</a></b>
       <br/><small>Apache Kafka · Spark Structured Streaming · Docker</small>
-      <br/>10K events/sec, <b>&lt;500ms p99 latency</b>, sessionization + anomaly detection.
+      <br/>Sessionization + anomaly detection; throughput and p99 latency reported by <b>--benchmark</b> mode.
     </td>
     <td width="50%" valign="top">
       <b>⚖️ <a href="https://github.com/adityashirsatrao007/fir-digitization-legal-ai">Nyaya AI</a> — Legal Document Processing</b>
@@ -182,7 +182,7 @@
 - 🤖 **RAG at scale** — <a href="https://github.com/adityashirsatrao007/indic-rag-evals">hybrid BM25 + dense, scored in indic-rag-evals</a>
 - 🧪 **Agents as code** — <a href="https://github.com/adityashirsatrao007/voice-agent-regression">LangGraph tool-calling held to a CI regression suite</a>
 - ⚡ **Low-latency C++** — <a href="https://github.com/adityashirsatrao007/order-matching-engine">order book optimizations, WebSocket depth feeds</a>
-- 🧠 **Next:** GenAI security, <a href="https://github.com/adityashirsatrao007/real-time-clickstream">real-time streaming at 10K evt/s</a>
+- 🧠 **Next:** GenAI security, <a href="https://github.com/adityashirsatrao007/real-time-clickstream">real-time streaming analytics</a>
 
 > Open to **collaboration** on Data/AI, FinTech, Security tooling — DM via LinkedIn/Email.
 
