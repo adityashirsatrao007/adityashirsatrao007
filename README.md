@@ -28,7 +28,7 @@
         <li>💻 <b>Focus</b>: Full Stack (React, Next.js, Node, Express, Mongo/Postgres), AI/ML (PyTorch, TensorFlow, BERT) & Cybersecurity</li>
         <li>🔒 <b>Current Work</b>: SOC Dashboards, SOAR pipelines, SentinelX Threat Intel — phishing/scam detection at scale</li>
         <li>🧠 <b>Research</b>: Multilingual BERT Sentiment Analysis — <i>IEEE ICCTWC 2026</i> publication</li>
-        <li>🌍 <b>Open Source</b>: 105+ PRs merged, 40+ repos, 32+ orgs — 3× Pair Extraordinaire, Pull Shark, Quickdraw</li>
+        <li>🌍 <b>Open Source</b>: 101 merged PRs — <b>92 external</b> across 33 orgs · 58 repos — 3× Pair Extraordinaire, Pull Shark, Quickdraw</li>
         <li>⚡ <b>Strengths</b>: Automation workflows, CLI tools, data pipelines (Kafka/Spark/Airflow), FinTech low-latency systems</li>
       </ul>
     </td>
@@ -84,18 +84,19 @@
 
 | | |
 |---|---|
-| <b>🏆 Wins</b> | <a href="https://github.com/adityashirsatrao007/ai-threat-detection">SentinelX</a> <b>1st Place</b> Hack from the Future 3.0 (600+ teams) · <a href="https://github.com/adityashirsatrao007/fir-digitization-legal-ai">Nyaya AI</a> <b>1st Runner-Up</b> National Hackathon (800+ teams) |
-| <b>📄 Publication</b> | <a href="https://github.com/adityashirsatrao007">BERT Multilingual Sentiment Analysis</a> — <i>IEEE ICCTWC 2026</i> |
-| <b>⚡ Performance</b> | <a href="https://github.com/adityashirsatrao007/order-matching-engine">Order Matching Engine <b>10.9M orders/sec</b></a> · <a href="https://github.com/adityashirsatrao007/rag-knowledge-assistant">RAG <b>92% hit-rate</b></a> · <a href="https://github.com/adityashirsatrao007/real-time-clickstream">Clickstream <b>10K evt/s, &lt;500ms p99</b></a> · <a href="https://github.com/adityashirsatrao007/nyc-taxi-data-pipeline">Taxi Pipeline <b>2.96M trips/day</b></a> |
-| <b>🌍 Open Source</b> | <a href="https://github.com/search?q=author%3Aadityashirsatrao007+type%3Apr+is%3Amerged">105+ merged PRs</a> · 58+ repos · 35+ orgs · 40+ repos contributed |
+| <b>🏆 Wins</b> | <a href="https://github.com/adityashirsatrao007/ai-threat-detection">SentinelX</a> <b>1st Place</b> Hack to Future 3.0 (600+ teams) · <a href="https://github.com/adityashirsatrao007/tracelify-sdk">Tracelify SDK</a> <b>1st Runner-Up</b> Orchathon 2K26 (800+ teams) |
+| <b>📄 Publication</b> | <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bgJ-5ZsAAAAJ&citation_for_view=bgJ-5ZsAAAAJ:u5HHmVD_uO8C">BERT Multilingual Sentiment Analysis</a> — <i>IEEE ICCTWC 2026</i> |
+| <b>⚡ Performance</b> | <a href="https://github.com/adityashirsatrao007/order-matching-engine">Order Matching Engine <b>10.9M orders/sec</b></a> · <a href="https://github.com/adityashirsatrao007/indic-rag-evals">RAG <b>eval harness</b> (Recall@k / MRR)</a> · <a href="https://github.com/adityashirsatrao007/real-time-clickstream">Clickstream <b>10K evt/s, &lt;500ms p99</b></a> · <a href="https://github.com/adityashirsatrao007/nyc-taxi-data-pipeline">Taxi Pipeline <b>2.96M trips/day</b></a> |
+| <b>🌍 Open Source</b> | <a href="https://github.com/search?q=author%3Aadityashirsatrao007+type%3Apr+is%3Amerged">101 merged PRs (92 external)</a> · 58 repos · 35 owners · 56 external repos |
+| <b>🧪 Evaluation Harnesses</b> | <a href="https://github.com/adityashirsatrao007/voice-agent-regression">voice-agent-regression</a> (prompt CI gate) · <a href="https://github.com/adityashirsatrao007/sarvam-asr-benchmark">sarvam-asr-benchmark</a> (live WER vs Sarvam API) · <a href="https://github.com/adityashirsatrao007/indic-rag-evals">indic-rag-evals</a> · <a href="https://github.com/adityashirsatrao007/sarvam-vision-doc-extract">sarvam-vision-doc-extract</a> · 497 tests |
 | <b>🎯 Core Stack</b> | Python, C++, JS/TS, Java · React/Next.js · Node/Express · Mongo/Postgres · Docker, Kafka, Spark, Airflow · TensorFlow/PyTorch |
 
 ## 📜 Publications & Certifications
 
 | Type | Details |
 |------|---------|
-| <b>📄 IEEE ICCTWC 2026</b> | <a href="https://github.com/adityashirsatrao007"><b>BERT Multilingual Sentiment Analysis</b></a> · Co-author · EN + Hindi NLP |
-| <b>🏅 Hackathons</b> | <a href="https://github.com/adityashirsatrao007/ai-threat-detection">SentinelX</a> **1st / 600+** Hack from the Future 3.0 · <a href="https://github.com/adityashirsatrao007/fir-digitization-legal-ai">Nyaya AI</a> **1st Runner-Up / 800+** National Hackathon |
+| <b>📄 IEEE ICCTWC 2026</b> | <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bgJ-5ZsAAAAJ&citation_for_view=bgJ-5ZsAAAAJ:u5HHmVD_uO8C"><b>BERT Multilingual Sentiment Analysis</b></a> · Co-author · EN + Hindi NLP |
+| <b>🏅 Hackathons</b> | <a href="https://github.com/adityashirsatrao007/ai-threat-detection">SentinelX</a> **1st / 600+** Hack to Future 3.0 · <a href="https://github.com/adityashirsatrao007/tracelify-sdk">Tracelify SDK</a> **1st Runner-Up / 800+** Orchathon 2K26 |
 | <b>🎖️ Open Source</b> | <a href="https://github.com/adityashirsatrao007">3× Pair Extraordinaire, Pull Shark, Quickdraw, YOLO</a> · GitHub Developer Program · Pro |
 
 
@@ -103,7 +104,7 @@
 
 | Role | Org / Institute | Period | Highlights |
 |------|-----------------|--------|------------|
-| <b><a href="https://bento.me/adityashirsatrao007">Full-Stack + ML + Security — Freelance</a></b> | <i>Data/AI, Web, Design, Writing, Marketing</i> | 2023 → Now | SOC dashboards, SOAR pipelines, AI threat intel; <a href="https://github.com/search?q=author%3Aadityashirsatrao007+type%3Apr+is%3Amerged">40+ open-source contributions</a> |
+| <b><a href="https://bento.me/adityashirsatrao007">Full-Stack + ML + Security — Freelance</a></b> | <i>Data/AI, Web, Design, Writing, Marketing</i> | 2023 → Now | SOC dashboards, SOAR pipelines, AI threat intel; <a href="https://github.com/search?q=author%3Aadityashirsatrao007+type%3Apr+is%3Amerged">92 merged open-source PRs</a> |
 | <b>B.Tech AI & DS — Final Year</b> | [N K Orchid College of Engineering & Technology, Solapur](https://orchidengg.ac.in/) | 2023 → 2027 | AI/DS · Full-stack, ML/Cybersecurity, automation CLI tools |
 
 
@@ -130,7 +131,7 @@
     <td width="50%" valign="top">
       <b>🔍 <a href="https://github.com/adityashirsatrao007/rag-knowledge-assistant">RAG Knowledge Assistant</a></b>
       <br/><small>FastAPI · Chroma · sentence-transformers · BM25 · Docker</small>
-      <br/>LLM Q&A over 500+ documents with hybrid retrieval + citations. <b>92% retrieval hit-rate</b> on eval set. Runs offline, zero model downloads.
+      <br/>LLM Q&A over 500+ documents with hybrid retrieval + citations, scored by <a href="https://github.com/adityashirsatrao007/indic-rag-evals">indic-rag-evals</a> (labelled queries, Recall@k / MRR / token-F1). Runs offline, zero model downloads.
     </td>
     <td width="50%" valign="top">
       <b>📊 <a href="https://github.com/adityashirsatrao007/nyc-taxi-data-pipeline">NYC Taxi Data Pipeline</a></b>
@@ -147,7 +148,19 @@
     <td width="50%" valign="top">
       <b>⚖️ <a href="https://github.com/adityashirsatrao007/fir-digitization-legal-ai">Nyaya AI</a> — Legal Document Processing</b>
       <br/><small>FastAPI · React · EasyOCR · PostgreSQL</small>
-      <br/>FIR digitization with OCR (English + Hindi) + IPC section detection. <b>1st Runner-Up</b>, National Hackathon (800+ teams).
+      <br/>FIR digitization with OCR (English + Hindi) + IPC section detection.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🧪 <a href="https://github.com/adityashirsatrao007/voice-agent-regression">Voice-Agent Regression Gate</a></b>
+      <br/><small>LangGraph · Tool calling · 212 tests · CI-gated</small>
+      <br/>16-scenario matrix with gold outcomes; prompt versions held to a regression suite — CI fails when any gated metric drops below the committed baseline.
+    </td>
+    <td width="50%" valign="top">
+      <b>🎙️ <a href="https://github.com/adityashirsatrao007/sarvam-asr-benchmark">Indian-Language ASR Benchmark</a></b>
+      <br/><small>Python stdlib · WER/CER · 55 tests · Sarvam saaras:v3</small>
+      <br/>Live platform run on 16 real-speech clips: <b>WER 0.090 / CER 0.037</b>, micro-averaged by language × domain. One command to reproduce.
     </td>
   </tr>
 </table>
@@ -165,8 +178,9 @@
 
 ## 🎯 Currently Building & Learning
 
-- 🔐 **SOC Automation** — <a href="https://github.com/adityashirsatrao007/ai-threat-detection">SOAR playbooks, Sentinel Threat Intel pipelines</a> (your current work)
-- 🤖 **RAG at scale** — <a href="https://github.com/adityashirsatrao007/rag-knowledge-assistant">hybrid BM25 + dense, offline eval 92%</a>
+- 🔐 **SOC Automation** — <a href="https://github.com/adityashirsatrao007/ai-threat-detection">SOAR playbooks, Sentinel Threat Intel pipelines</a>
+- 🤖 **RAG at scale** — <a href="https://github.com/adityashirsatrao007/indic-rag-evals">hybrid BM25 + dense, scored in indic-rag-evals</a>
+- 🧪 **Agents as code** — <a href="https://github.com/adityashirsatrao007/voice-agent-regression">LangGraph tool-calling held to a CI regression suite</a>
 - ⚡ **Low-latency C++** — <a href="https://github.com/adityashirsatrao007/order-matching-engine">order book optimizations, WebSocket depth feeds</a>
 - 🧠 **Next:** GenAI security, <a href="https://github.com/adityashirsatrao007/real-time-clickstream">real-time streaming at 10K evt/s</a>
 
@@ -176,7 +190,7 @@
 
 ## ✅ Merged Pull Requests — All Time (101 PRs)
 
-> Complete verified history via GitHub Search API · From **Jul 2025 → Jul 2026** · Across **58+ repositories, 35+ organizations**
+> Complete verified history via GitHub Search API · From **Jul 2025 → Jul 2026** · Across **58 repositories, 35 owners** — **92 of 101 PRs are external** (the other 9 are PRs to my own repos)
 
 <!-- START_PR_LIST -->
 <details>
@@ -325,10 +339,10 @@
 ## 🏅 Achievements & Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hack%20from%20the%20Future%203.0-1st%20Place%20%2F600%2B-FF6B00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/National%20Hackathon-1st%20Runner--Up%20%2F800%2B-6E40C9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hack%20to%20Future%203.0-1st%20Place%20%2F600%2B-FF6B00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Orchathon%202K26-1st%20Runner--Up%20%2F800%2B-6E40C9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/IEEE%20ICCTWC%202026-Publication-007ACC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-105%2B%20PRs%20Merged-32C850?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-101%20PRs%20Merged-32C850?style=for-the-badge" />
 </p>
 
 <div align="center">
