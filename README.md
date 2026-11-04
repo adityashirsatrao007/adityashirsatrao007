@@ -28,7 +28,7 @@
         <li>💻 <b>Focus</b>: Full Stack (React, Next.js, Node, Express, Mongo/Postgres), AI/ML (PyTorch, TensorFlow, BERT) & Cybersecurity</li>
         <li>🔒 <b>Current Work</b>: SOC Dashboards, SOAR pipelines, SentinelX Threat Intel — phishing/scam detection at scale</li>
         <li>🧠 <b>Research</b>: Multilingual BERT Sentiment Analysis — <i>IEEE ICCTWC 2026</i> publication</li>
-        <li>🌍 <b>Open Source</b>: 102 merged PRs (96 external) · merged into <b>stanfordnlp/dspy</b>, <b>sarvamai/sarvam-ai-cookbook</b>, <b>hiero-ledger</b>, <b>FINOS/FDC3</b></li>
+        <li>🌍 <b>Open Source</b>: merged into <b>stanfordnlp/dspy</b>, <b>sarvamai/sarvam-ai-cookbook</b>, <b>hiero-ledger</b> and <b>FINOS/FDC3</b> — 102 PRs merged, 96 of them outside my own repos</li>
         <li>⚡ <b>Strengths</b>: Automation workflows, CLI tools, data pipelines (Kafka/Spark/Airflow), FinTech low-latency systems</li>
       </ul>
     </td>
