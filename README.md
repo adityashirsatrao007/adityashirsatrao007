@@ -28,7 +28,7 @@
         <li>💻 <b>Focus</b>: Full Stack (React, Next.js, Node, Express, Mongo/Postgres), AI/ML (PyTorch, TensorFlow, BERT) & Cybersecurity</li>
         <li>🔒 <b>Current Work</b>: SOC Dashboards, SOAR pipelines, SentinelX Threat Intel — phishing/scam detection at scale</li>
         <li>🧠 <b>Research</b>: Multilingual BERT Sentiment Analysis — <i>IEEE ICCTWC 2026</i> publication</li>
-        <li>🌍 <b>Open Source</b>: 101 merged PRs — <b>92 external</b> across 33 orgs · 58 repos — 3× Pair Extraordinaire, Pull Shark, Quickdraw</li>
+        <li>🌍 <b>Open Source</b>: 102 merged PRs (96 external) · merged into <b>stanfordnlp/dspy</b>, <b>sarvamai/sarvam-ai-cookbook</b>, <b>hiero-ledger</b>, <b>FINOS/FDC3</b></li>
         <li>⚡ <b>Strengths</b>: Automation workflows, CLI tools, data pipelines (Kafka/Spark/Airflow), FinTech low-latency systems</li>
       </ul>
     </td>
@@ -46,7 +46,7 @@
         <img src="https://img.shields.io/badge/Solapur,_India-007ACC?style=flat&logo=googlemaps&logoColor=white" />
         <img src="https://img.shields.io/badge/Available_Now-00C853?style=flat" />
       </p>
-      <p><i>Response < 24h · Freelance: Data/AI, Web, Design, Writing</i></p>
+      <p><i>Freelance: Data/AI, Web, Design, Writing</i></p>
     </td>
   </tr>
 </table>
@@ -87,7 +87,7 @@
 | <b>🏆 Wins</b> | <a href="https://github.com/adityashirsatrao007/ai-threat-detection">SentinelX</a> <b>1st Place</b> Hack to Future 3.0 (600+ teams) · <a href="https://github.com/adityashirsatrao007/tracelify-sdk">Tracelify SDK</a> <b>1st Runner-Up</b> Orchathon 2K26 (800+ teams) |
 | <b>📄 Publication</b> | <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bgJ-5ZsAAAAJ&citation_for_view=bgJ-5ZsAAAAJ:u5HHmVD_uO8C">BERT Multilingual Sentiment Analysis</a> — <i>IEEE ICCTWC 2026</i> |
 | <b>⚡ Performance</b> | <a href="https://github.com/adityashirsatrao007/order-matching-engine">Order Matching Engine <b>1.3 µs/order</b> (~800K/sec, single-threaded)</a> · <a href="https://github.com/adityashirsatrao007/indic-rag-evals">RAG <b>eval harness</b> (Recall@k / MRR)</a> · <a href="https://github.com/adityashirsatrao007/sarvam-asr-benchmark">Indian ASR <b>WER 0.090</b> (16 real clips)</a> · <a href="https://github.com/adityashirsatrao007/real-time-clickstream">Clickstream — throughput &amp; p99 via --benchmark</a> |
-| <b>🌍 Open Source</b> | <a href="https://github.com/search?q=author%3Aadityashirsatrao007+type%3Apr+is%3Amerged">101 merged PRs (92 external)</a> · 58 repos · 35 owners · 56 external repos |
+| <b>🌍 Open Source</b> | <a href="https://github.com/search?q=author%3Aadityashirsatrao007+type%3Apr+is%3Amerged">102 merged PRs (96 external)</a> · 58 external repos · 35 maintainers |
 | <b>🧪 Evaluation Harnesses</b> | <a href="https://github.com/adityashirsatrao007/voice-agent-regression">voice-agent-regression</a> (prompt CI gate) · <a href="https://github.com/adityashirsatrao007/sarvam-asr-benchmark">sarvam-asr-benchmark</a> (live WER vs Sarvam API) · <a href="https://github.com/adityashirsatrao007/indic-rag-evals">indic-rag-evals</a> · <a href="https://github.com/adityashirsatrao007/sarvam-vision-doc-extract">sarvam-vision-doc-extract</a> · 497 tests |
 | <b>🎯 Core Stack</b> | Python, C++, JS/TS, Java · React/Next.js · Node/Express · Mongo/Postgres · Docker, Kafka, Spark, Airflow · TensorFlow/PyTorch |
 
@@ -97,7 +97,7 @@
 |------|---------|
 | <b>📄 IEEE ICCTWC 2026</b> | <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bgJ-5ZsAAAAJ&citation_for_view=bgJ-5ZsAAAAJ:u5HHmVD_uO8C"><b>BERT Multilingual Sentiment Analysis</b></a> · Co-author · EN + Hindi NLP |
 | <b>🏅 Hackathons</b> | <a href="https://github.com/adityashirsatrao007/ai-threat-detection">SentinelX</a> **1st / 600+** Hack to Future 3.0 · <a href="https://github.com/adityashirsatrao007/tracelify-sdk">Tracelify SDK</a> **1st Runner-Up / 800+** Orchathon 2K26 |
-| <b>🎖️ Open Source</b> | <a href="https://github.com/adityashirsatrao007">3× Pair Extraordinaire, Pull Shark, Quickdraw, YOLO</a> · GitHub Developer Program · Pro |
+| <b>🎖️ Open Source</b> | Merged work in dspy, Sarvam AI cookbook, hiero-sdk-python, FINOS FDC3, wingfoil, twenty |
 
 
 ## 🧑‍💼 Experience & Education
@@ -112,7 +112,7 @@
 
 ## 🚀 Featured Projects
 
-> Production-grade, tested, CI-enabled — every repo runs end-to-end.
+> Flagship projects below ship with test suites and CI. Numbers link to the code that produced them.
 
 <table border="0" width="100%">
   <tr>
